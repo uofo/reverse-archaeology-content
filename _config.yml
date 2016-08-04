@@ -43,3 +43,9 @@ prose:
       - name: "title"
         field:
           element: "text"
+      - name: "image_url"
+        field:
+          element: "text"
+      - name: "video_url"
+        field:
+          element: "text"
