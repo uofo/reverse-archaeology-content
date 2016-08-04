@@ -1,0 +1,7 @@
+[
+    {% for artifact in site.artifacts %}{
+        "title": "{{ artifact.title }}",
+        "url": "{{site.baseurl}}{{artifact.url}}",
+        "content": "{{ artifact.content | xml_escape }}"
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+]
