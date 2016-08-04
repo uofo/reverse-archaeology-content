@@ -36,3 +36,10 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
     Access-Control-Request-Method: "GET"
+
+prose:
+  metadata:
+    _artifacts:
+      - name: "title"
+        field:
+          element: "text"
