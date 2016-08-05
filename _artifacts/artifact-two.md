@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: artifact
 title:  "Artifact Two"
 image_url: http://example.com/image.png
 ---

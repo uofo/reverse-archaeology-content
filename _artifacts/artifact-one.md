@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: artifact
 title: Artifact One
 ---
 
