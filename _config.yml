@@ -10,6 +10,10 @@ url: "https://uofo.github.io"
 # Build settings
 markdown: kramdown
 
+collections:
+  artifacts:
+    output: true
+
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
