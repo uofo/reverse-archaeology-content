@@ -1,26 +1,8 @@
 ---
 layout: post
 title: Artifact One
-date: '2016-08-04 14:52:47 -0400'
-categories: jekyll update
-published: true
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet cursus odio. Praesent eu commodo lacus. In et nunc varius, placerat lectus at, interdum dui. Nam in odio et dolor sagittis vehicula non ac nisi. Suspendisse venenatis sapien quis velit auctor vulputate. Suspendisse sed nibh id lectus facilisis pharetra. Fusce semper mattis sem molestie tincidunt. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam aliquet est sit amet blandit ornare. Quisque ullamcorper imperdiet magna, eu egestas arcu volutpat et. Nam tincidunt lacus lacinia venenatis dictum. Mauris a urna mi. Ut sit amet enim non lorem consectetur dapibus in in neque. Cras dolor enim, semper sit amet lobortis non, ultrices in nisi.
 
-Jekyll also offers **powerful** support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Sed tristique vulputate diam, a semper diam fringilla at. Curabitur venenatis venenatis eros, in blandit nibh blandit quis. Curabitur egestas lectus at vestibulum tincidunt. Nullam rhoncus, lorem nec suscipit malesuada, mi nisl accumsan velit, a luctus orci dolor sed lacus. Nullam egestas mollis orci, ac elementum ligula mollis et. Donec suscipit nulla blandit mauris semper porttitor. Cras sed justo a risus sollicitudin ornare a id ipsum. Vivamus velit lacus, bibendum at velit at, aliquet rutrum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin auctor lacinia elit, id euismod lorem faucibus in. Duis sit amet lacus at lacus gravida auctor id sit amet libero. In augue lectus, accumsan sed gravida non, vulputate feugiat velit. Sed quis porta turpis. Quisque luctus mi sed metus varius viverra. Phasellus arcu mauris, blandit in erat id, tincidunt faucibus nibh. Aliquam non arcu quis leo feugiat placerat in ut neque. 
