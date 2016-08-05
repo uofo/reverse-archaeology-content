@@ -1,5 +1,6 @@
 title: Reverse Archaeology Content
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "/jekyll-spa-content"
+url: "https://uofo.github.io"
 
 # Build settings
 markdown: kramdown
