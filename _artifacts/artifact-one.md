@@ -1,5 +1,5 @@
 ---
-layout: artifact
+layout: page
 title: Artifact One
 ---
 
