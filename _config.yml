@@ -26,11 +26,39 @@ prose:
         field:
           element: "text"
           label: "Title"
+      - name: "headline"
+        field:
+          element: "text"
+          label: "Headline"
       - name: "image_url"
         field:
           element: "text"
           label: "Image URL"
-      - name: "video_url"
+      - name: "image_caption"
         field:
           element: "text"
-          label: "Video URL"
+          label: "Image Caption"
+      - name: "name"
+        field:
+          element: "text"
+          label: "Name (interviewee or story subject)"
+      - name: "location_latitude"
+        field:
+          element: "number"
+          label: "Location Latitude"
+      - name: "location_longitude"
+        field:
+          element: "number"
+          label: "Location Longitude"
+      - name: "learn_more_url"
+        field:
+          element: "text"
+          label: "Learn More URL"
+      - name: "themes"
+        field:
+          element: "text"
+          label: "Themes"
+      - name: "subthemes"
+        field:
+          element: "text"
+          label: "Subthemes"
