@@ -2,9 +2,14 @@
 layout: page
 title: Artifact One
 published: true
-location_latitude: 0
-location_longitude: 0
+location_latitude: 40
+location_longitude: -72
 headline: This is Artifact One
+image_url: 'http://example.com/img.png'
+image_caption: Example Image
+name: Example Interviewee
+learn_more_url: 'http://example.com/learn-more'
+themes: 'examples, tests'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet cursus odio. Praesent eu commodo lacus. In et nunc varius, placerat lectus at, interdum dui. Nam in odio et dolor sagittis vehicula non ac nisi. Suspendisse venenatis sapien quis velit auctor vulputate. Suspendisse sed nibh id lectus facilisis pharetra. Fusce semper mattis sem molestie tincidunt. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam aliquet est sit amet blandit ornare. Quisque ullamcorper imperdiet magna, eu egestas arcu volutpat et. Nam tincidunt lacus lacinia venenatis dictum. Mauris a urna mi. Ut sit amet enim non lorem consectetur dapibus in in neque. Cras dolor enim, semper sit amet lobortis non, ultrices in nisi.
