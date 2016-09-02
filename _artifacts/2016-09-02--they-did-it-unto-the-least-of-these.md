@@ -7,6 +7,7 @@ image_caption: Gerrymandered school distict lines
 name: 'Ernest Thompson, Homeboy Came to Orange. '
 subthemes: 'Race, Education, Activism, Oakwood Avenue, CRG'
 image_url: 'https://www.flickr.com/photos/141494535@N03/28785277944/in/dateposted-public/'
+headline: “They did it unto the least of these”
 ---
 ## A New Post
 
