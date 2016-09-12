@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Ida Woody at Woody Home for Services
 video_url: 'https://soundcloud.com/murmur-orange-nj/woodys-ida-woody'
 location_latitude: 0

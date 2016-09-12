@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: “They did it unto the least of these”
 image_caption: Gerrymandered school distict lines
 name: 'Ernest Thompson, Homeboy Came to Orange. '

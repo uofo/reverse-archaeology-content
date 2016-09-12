@@ -1,7 +1,7 @@
 ---
 location_latitude: 40.762593
 location_longitude: -74.225979
-published: false
+published: true
 title: “Every Saturday we would roller skate to the movies”
 headline: Every Saturday we would roller skate to the movies
 image_url: >-
