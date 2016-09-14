@@ -1,10 +1,17 @@
 ---
-location_latitude: 0
-location_longitude: 0
+location_latitude: 40.770662
+location_longitude: -74.236627
 published: false
 title: >-
   “I would sneak upstairs to play bingo with my Aunt Lizzie since hers was on
   the only room with air conditioning”
+image_url: >-
+  https://www.flickr.com/photos/141494535@N03/29330052321/in/album-72157673225101106/
+image_caption: 'Typcial 1950s Bingo game like Mr. Dorflinger played '
+headline: >-
+  “I would sneak upstairs to play bingo with my Aunt Lizzie since hers was on
+  the only room with air conditioning”
+name: Don Dorflinger
 ---
 _Don Dorflinger remebers childhoos on Mechanic Street_
 
