@@ -9,7 +9,7 @@ image_url: >-
 image_caption: 'Rhingold Beer advertisement in the Orange Transcript, October 10, 1963'
 name: Business
 ---
-_Rehingold Brewery Closes: 600 Jobs and Local Institution Lost_
+_Rehingold Brewery Closes: 600 Jobs and A Local Institution Lost_
 
 Brewing was a long standing industry in Orange. The Orange Brewery opened in 1901 under the ownership of German immigrant Michael Winters. It was formerly located on a 2-acre lot surrounded by the Railroad tracks, Hickory, Hill, and Prince Streets. Following the repeal of prohibition the brewery was purchased by the Brooklyn-based brewers of Trommers. The brewery was sold again in 1950 to the Liebmann Breweries, Inc. of New York, which bottled Rheingold Beer at the Orange facility up until the 1970's. The brewery finally closed and was demolished in 1980. 
 
