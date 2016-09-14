@@ -6,7 +6,9 @@ title: “The neighborhood guys would hang out there at night to play cards”
 headline: “The neighborhood guys would hang out there at night to play cards”
 image_url: >-
   https://www.flickr.com/photos/141494535@N03/29330052021/in/album-72157673225101106/
-image_caption: Location of Freda’s Store at the corner of Parrow and S. Center Street
+image_caption: >-
+  Location of Freda’s Store, later the Key Club, at the corner of Parrow and S.
+  Center Street
 name: 'Debbia Gallo, Paul Ianiro, Carmella Ianiro'
 ---
 _The Key Club, aka Tammany Hall, was a hang out for Italian American men in Orange_
