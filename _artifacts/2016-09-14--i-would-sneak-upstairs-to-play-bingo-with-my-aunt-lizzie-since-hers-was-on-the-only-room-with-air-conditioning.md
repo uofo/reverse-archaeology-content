@@ -13,7 +13,7 @@ headline: >-
   the only room with air conditioning”
 name: Don Dorflinger
 ---
-_Don Dorflinger remebers childhoos on Mechanic Street_
+_Don Dorflinger remembers childhood on Mechanic Street_
 
 Don Dorflinger is of German descent, a local historian, and co-author of Orange: A Postcard Guide to Our Past. He remembers his Great Aunt and Grandmother’s home on Mechanic Street, which was one of the many homes torn down to build I-280. The home was originally owned by his Great Aunt Elizabeth ‘Aunt Lizzie’ Dorflinger Hoch and Great Uncle John Washington Hoch’s, who ran a family dairy business, The Orange Dairy. The family farm was located on Northfield Avenue in Livingston, NJ. John and Elizabeth lived in a two story, three bedroom home at the front of the property, which had a barn for the horses and delivery wagon, and a structure for washing bottles in the rear. 
 
