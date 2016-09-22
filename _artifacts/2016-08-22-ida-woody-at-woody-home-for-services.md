@@ -9,6 +9,6 @@ Hear Ida Woody tell a story about her family’s 100-year-old business, Woody’
 
 Learn More:
 
-[Listen to the Story](https://soundcloud.com/murmur-orange-nj/woodys-ida-woody)
-[Visit Woody's Website](http://www.woodyhomeforservices.com/)
-[Read about Woody's in Our Orange: Discovery of our Past](http://www.universityoforange.org/newsite/our-orange-the-discovery-of-our-past)
+[Listen to the Story]
+[Visit Woody's Website]
+[Read about Woody's in Our Orange: Discovery of our Past]
