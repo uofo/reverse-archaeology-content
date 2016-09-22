@@ -7,7 +7,7 @@ title: >-
   the only room with air conditioning”
 image_url: >-
   https://www.flickr.com/photos/141494535@N03/29330052321/in/album-72157673225101106/
-image_caption: 'Typcial 1950s Bingo game like Mr. Dorflinger played '
+image_caption: 'Typical 1950s Bingo game like Mr. Dorflinger played '
 headline: >-
   “I would sneak upstairs to play bingo with my Aunt Lizzie since hers was on
   the only room with air conditioning”
@@ -20,4 +20,3 @@ Don Dorflinger is of German descent, a local historian, and co-author of Orange:
 After Aunt Lizzie's death, the property was repurposed by Edmund Dorflinger (Dons father’s) for use by his company, the Suburban Roofing Company. Don’s grandmother, Sophie Dorflinger moved into the house. Don’s family lived in Orange on South Center St., and Edmund operated the Suburban Roofing Company on Mechanic Street until 280 came through.
 
 Don has fond memories of visiting his Aunt Lizzie for family gatherings like at Thanksgiving and Christmas. He has a picture of one Christmas at this home from 1952.  He also remembered that his Aunt Lizzie was confined to her bed because of illness, and that she had the only room with air conditioning. So, when he would visit her home as a child, he would love to play BINGO with her up in the air conditioned bedroom using a set she owned.
-
