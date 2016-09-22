@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: >-
   “I’d be so tired after playing basketball and running around with the kids
   that I’d be home asleep”

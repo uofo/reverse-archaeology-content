@@ -1,7 +1,7 @@
 ---
 location_latitude: 40.770662
 location_longitude: -74.236627
-published: false
+published: true
 title: >-
   “I would sneak upstairs to play bingo with my Aunt Lizzie since hers was on
   the only room with air conditioning”

@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: “We would go pick the chestnuts and we made necklaces with them”
 ---
 _Debbie Gallo remembers childhood on S. Centre Street_ 

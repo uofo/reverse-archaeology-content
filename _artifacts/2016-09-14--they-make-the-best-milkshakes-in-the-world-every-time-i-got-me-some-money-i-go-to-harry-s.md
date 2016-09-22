@@ -1,7 +1,7 @@
 ---
 location_latitude: 40.76638
 location_longitude: -74.2249
-published: false
+published: true
 title: >-
   “They make the best milkshakes in the world … Every time I got me some money …
   I go to Harry’s” 

@@ -1,7 +1,7 @@
 ---
 location_latitude: 40.770228
 location_longitude: -74.225823
-published: false
+published: true
 title: '“Misfits and malcontents are the hope of the world” '
 headline: '“Misfits and malcontents are the hope of the world” '
 image_url: >-

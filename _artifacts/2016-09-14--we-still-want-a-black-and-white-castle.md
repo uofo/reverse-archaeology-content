@@ -1,7 +1,7 @@
 ---
 location_latitude: 40.768416
 location_longitude: -74.240205
-published: false
+published: true
 title: “We still want a Black and White Castle!”
 headline: “We still want a Black and White Castle!”
 image_url: >-

@@ -1,7 +1,7 @@
 ---
 location_latitude: 40.768379
 location_longitude: -74.229921
-published: false
+published: true
 title: “The neighborhood guys would hang out there at night to play cards”
 headline: “The neighborhood guys would hang out there at night to play cards”
 image_url: >-

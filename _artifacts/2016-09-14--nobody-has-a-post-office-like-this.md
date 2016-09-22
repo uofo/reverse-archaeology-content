@@ -1,7 +1,7 @@
 ---
 location_latitude: 40.771938
 location_longitude: -74.229664
-published: false
+published: true
 title: “Nobody has a post office like this!”
 headline: “Nobody has a post office like this!”
 image_url: >-

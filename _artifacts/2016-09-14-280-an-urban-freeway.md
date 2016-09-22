@@ -1,7 +1,7 @@
 ---
 location_latitude: 40.769359
 location_longitude: -74.229524
-published: false
+published: true
 title: '280 – an urban freeway '
 headline: '280 – an urban freeway '
 image_url: >-

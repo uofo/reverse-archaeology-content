@@ -1,7 +1,7 @@
 ---
 location_latitude: 40.76521
 location_longitude: -74.227947
-published: false
+published: true
 title: >-
   “You’d come down Hickory Street and look at the back of them buildings and see
   nothing but tin tubs”

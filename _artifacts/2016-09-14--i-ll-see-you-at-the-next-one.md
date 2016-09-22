@@ -1,7 +1,7 @@
 ---
 location_latitude: 40.773213
 location_longitude: -74.22936
-published: false
+published: true
 title: '"I’ll see you at the next one …"'
 image_url: >-
   https://www.flickr.com/photos/141494535@N03/29330052031/in/album-72157673225101106/

@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: >-
   “In the fifties, in New Jersey, they put a law in that you couldn’t wear gang
   colors” 
