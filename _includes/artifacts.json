@@ -1,12 +1,12 @@
 [
     {% for artifact in site.artifacts %}{
-        "title": "{{ artifact.title }}",
-        "slug": "{{artifact.slug}}",
+        "title": {{ artifact.title | jsonify }},
+        "slug": "{{ artifact.slug }}",
         "content": "{{ artifact.content | strip_newlines | escape_once }}",
         {% if artifact.location_latitude %}"location_latitude": {{artifact.location_latitude}},{% endif %}
         {% if artifact.location_longitude %}"location_longitude": {{artifact.location_longitude}},{% endif %}
         {% if artifact.image_url %}"image_url": "{{artifact.image_url}}",{% endif %}
         {% if artifact.image_caption %}"image_caption": "{{artifact.image_url}}",{% endif %}
-        "headline": "{{artifact.headline}}"
+        "headline": {{ artifact.headline | jsonify }}
     }{% unless forloop.last %},{% endunless %}{% endfor %}
 ]
