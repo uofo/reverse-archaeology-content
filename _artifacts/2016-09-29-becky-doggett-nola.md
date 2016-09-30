@@ -2,8 +2,24 @@
 location_latitude: 0
 location_longitude: 0
 published: false
-title: Becky Doggett & NOLA
+title: >-
+  Becky Doggett remembers the Non-Partisan Organization for Liberal Action in
+  1963
+headline: “We were the young radicals”
 ---
-## A New Post
+Rebecca ‘Becky’ Doggett was born in Orange in 1941. She grew up in her family home on Wilson Place just down the street from Union Baptist Church. She was a bright child who skipped grades in elementary school, took four years of Latin at Orange High School, and  attended Oberlin and Upsala Colleges. Her childhood was filled with riding bikes, playing hop scotch, hide and seek, jumping rope and “giants steps.” Her family was very active at Union Baptist Church. She remembered the music program, holidays services, and women’s volunteer group. She was part of the junior missionaries and brownie and girl scout troops. 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+As a young adult, Becky became active in the local chapter of the NAACP. She support Ernie Thompson’s effort to desegregate the schools and pickets the Board of Education. This led to her collaboration with other ‘young radicals’ from the African American community who formed the Non-Profit Organization for Liberal Action (NOLA). NOLA’s headquarters was Shorty’s Barbershop on Hickory St. between South and Parrow, a block that was torn down to build I-280. In 1963, NOLA backed Ray Murphy for City Council, a move that put them at odds with other African Americans. That the African American community could support multiple candidates yet remain unified on other issues tells us a lot about African Americans in Orange as well as the way communities in general can function with the right kinds of support and resources.  
+
+Learn more:  
+
+Listen to the interview with Becky Doggett  
+
+Read a summary of the interview with Becky Doggett  
+
+Listen to the interview with Morris "Shorty" Thomas and Becky Doggett  
+
+Read a summary of the interview with Morris "Shorty" Thomas and Becky Doggett  
+
+Read a newspaper artiacle about the 1963 election campaign  
+
