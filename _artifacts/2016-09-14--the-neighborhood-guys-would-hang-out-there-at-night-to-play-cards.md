@@ -6,8 +6,7 @@ title: >-
   The Key Club, aka Tammany Hall, was a hang out for Italian American men in
   Orange
 headline: “The neighborhood guys would hang out there at night to play cards”
-image_url: >-
-  https://www.flickr.com/photos/141494535@N03/29330052021/in/album-72157673225101106/
+image_url: ' reverse-archaeology-content/images/Fredas Store.jpg'
 image_caption: >-
   Location of Freda’s Store, later the Key Club, at the corner of Parrow and S.
   Center Street
@@ -20,4 +19,4 @@ Learn more:
 
 Listen the full interview with Debbaie Gallo  
 
-Read a summary of the interview with Debbia Gallo  
+Read a summary of the interview with Debbia Gallo
