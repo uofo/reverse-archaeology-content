@@ -4,11 +4,10 @@ location_longitude: -74.225979
 published: true
 title: Fran McClain remembers childhood on Oakwood Avenue
 headline: '"Every Saturday we would roller skate to the movies"'
-image_url: >-
-  https://www.flickr.com/photos/141494535@N03/29301226002/in/album-72157673225101106/
 image_caption: The Hollywood Theater on Central Avenue in East Orange
 name: Fran McClain
 subthemes: 'Childhood, Entertainment, Oakwood Avenue'
+image_url: ' reverse-archaeology-content/images/Hollywood Theater.jpg'
 ---
 Fran McClain lived as a child on Central Place in Orange. She remembers the neighborhood well, but feels a loss since it declined after 280 was built. She recalls big sites like Orange Memorial Hospital, Rheingold’s Brewery, the Oakwood Avenue YMCA as well as small places like Dave’s and Manning’s jazz joint at the corner of Parrow and Central and the Friendship House on Parrow St. where the older kids would hang out and sometime bring the kids they were babysitting along.
 
@@ -18,4 +17,4 @@ Learn more:
 
 Listen to Fran McLain's Interview  
 
-Read a summary of Fran McLain's interview  
+Read a summary of Fran McLain's interview
