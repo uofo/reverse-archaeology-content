@@ -4,14 +4,13 @@ location_longitude: -74.229524
 published: true
 title: Interstate 280 cuts through the heart of the City of Orange
 headline: '280 – an urban freeway '
-image_url: >-
-  https://www.flickr.com/photos/141494535@N03/29301226172/in/album-72157673225101106/
 image_caption: >-
   Traffic passing under the Hickory Street bridge moves along Route 280 which
   cut the City of Orange. Orange, NJ - Star-Ledger, 7/27/2016 (Robert Sciarrino
   | NJ Advance Media for NJ.com)
 name: '280'
 subthemes: '280, displacement, urban renewal, African American community'
+image_url: ' reverse-archaeology-content/images/280 Overpass.jpg'
 ---
 Urban interstates like 280 have come under intense scrutiny for the mostly negative impact they have had on urban communities. As early as the 1940s, freeways like 280 were seen as solutions to a perceived problem of urban slums with blighted housing. Thomas MacDonald, director of the Bureau of Public Roads concluded that “it is happy circumstance that living conditions for the family can be re-established [in the new suburbs] and permit the social and economic decay at the heart of cities to be converted to a public assets.” However, as highways began to be embraced by the public, President Truman severed the link between highways and housing leaving most of those displaced by highway construction with few options for relocation. Rather, highways like many other major urban renewal developments were most effective in how they removed mostly poor and minority communities from inner city neighborhoods. The claim that “urban renewal was negro removal” proved to be mostly true. The problem, however, is since poor urban communities had little voice, most Americans agreed with the Highway Research Board’s 1962 conclusion that interstate highways were a “’positive social good’ ‘eating out slums’ and ‘reclaiming blighted areas’ for more productive civic uses” afforded by reclaimed real estate." 
 
@@ -33,4 +32,4 @@ _Sources/Further reading: Mindy Thompson Fullilove, Urban Alchemy: Restoring Joy
 
 Learn More:  
 
-View aerial photos of Orange from before and after 280 was built    
+View aerial photos of Orange from before and after 280 was built
