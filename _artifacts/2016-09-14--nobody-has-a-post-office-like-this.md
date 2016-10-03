@@ -4,8 +4,7 @@ location_longitude: -74.229664
 published: true
 title: 'Karen Wells remarks on the architectural beauty of Main Street in Orange  '
 headline: “Nobody has a post office like this!”
-image_url: >-
-  https://www.flickr.com/photos/141494535@N03/29301226102/in/album-72157673225101106/
+image_url: ' reverse-archaeology-content/images/Beehive.jpg'
 image_caption: >-
   Beehive molding on the side exterior wall of the Hudson City Bank building on
   Main Street
