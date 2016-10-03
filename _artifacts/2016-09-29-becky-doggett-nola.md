@@ -20,7 +20,7 @@ Learn more:
 
 Read a summary of the interview with Becky Doggett  
 
-Listen to the interview with Morris "Shorty" Thomas and Becky Doggett  
+[Listen to the interview with Morris "Shorty" Thomas and Becky Doggett](https://soundcloud.com/user-893189553/morris-thomas-and-becky-doggett-interview-7-14-16)  
 
 Read a summary of the interview with Morris "Shorty" Thomas and Becky Doggett  
 
