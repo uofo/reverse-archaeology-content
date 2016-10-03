@@ -4,11 +4,10 @@ location_longitude: -74.240205
 published: true
 title: CORE Protest Hiring Discrimination at White Castle in Orange in 1963
 headline: “We still want a Black and White Castle!”
-image_url: >-
-  https://www.flickr.com/photos/141494535@N03/29330051321/in/album-72157673225101106/
 image_caption: White Castle Logo
 name: Racial discrimination
 subthemes: 'Protest, Race, African American Community'
+image_url: ' reverse-archaeology-content/images/White Castle Logo.jpg'
 ---
 On Saturday July 20, 1963, more than 30 Orange residents, both White and African American, joined with leaders of the Essex County Congress of Racial Equality (CORE) to protest at the White Castle restaurant on the corner Central Avenue and Scotland Road. Protestors were calling attention to the White Castle company’s “unfair Negro employment practices.” Protestors formed a picket line in front of the restaurant at midnight as eight CORE members led a sit-in demonstration inside. The protestors attracted 200 white hecklers, two of which were arrested for disorderly conduct and possession of firecrackers. 
 
@@ -20,4 +19,4 @@ _Sources: “Spectators Heckle Picketers.” Orange Transcript, July 25, 1963, p
 
 Learn More:
 
-Read articles on White Castle anti-dicrimination protests    
+Read articles on White Castle anti-dicrimination protests
