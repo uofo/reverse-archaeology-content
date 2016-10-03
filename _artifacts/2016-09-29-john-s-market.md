@@ -21,8 +21,10 @@ Listen to the interview with Paul Modugno and Louis Genfra
 
 Read a summary of the interview with Paul Modugno and Louis Genfra  
 
-Listen to the  intevriew with Anthony Benevento and Joe McCardle  
+Listen to the  interview with Anthony Benevento and Joe McCardle  
 
 Read a summary of the interview with Anthony Benevento and Joe McCardle  
 
-murmur interview with Modugno?
+murmur interview with Modugno?  
+
+view an image of "scata la porta"
