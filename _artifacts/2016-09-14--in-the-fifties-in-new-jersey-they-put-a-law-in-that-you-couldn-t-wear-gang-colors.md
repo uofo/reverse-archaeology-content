@@ -6,8 +6,7 @@ title: Michael Lally talk about being in the Archangles in the Orange Valley
 headline: >-
   “In the fifties, in New Jersey, they put a law in that you couldn’t wear gang
   colors” 
-image_url: >-
-  https://www.flickr.com/photos/141494535@N03/29330052291/in/album-72157673225101106/
+image_url: ' reverse-archaeology-content/images/Blackboard Jungle poster.jpg'
 image_caption: 'Poster for the film, Blackboard Jungle, 1955'
 name: Michael Lally
 subthemes: 'Childhood, gangs, Irish, Orange Valley'
@@ -26,4 +25,4 @@ Read a summary of the interview with Michael Lally
 
 [Visit Michael Lally's Blog, Lally's Alley](http://lallysalley.blogspot.com/)  
 
-[Read Michael Lally's Books](https://www.amazon.com/Michael-Lally/e/B001K8KQ0K/ref=sr_ntt_srch_lnk_4?qid=1475180819&sr=1-4)  
+[Read Michael Lally's Books](https://www.amazon.com/Michael-Lally/e/B001K8KQ0K/ref=sr_ntt_srch_lnk_4?qid=1475180819&sr=1-4)
