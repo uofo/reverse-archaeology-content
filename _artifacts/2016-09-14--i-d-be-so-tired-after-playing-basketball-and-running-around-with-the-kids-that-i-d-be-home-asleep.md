@@ -8,14 +8,13 @@ title: >-
 headline: >-
   “I’d be so tired after playing basketball and running around with the kids
   that I’d be home asleep”
-image_url: >-
-  https://www.flickr.com/photos/141494535@N03/29330051581/in/album-72157673225101106/
 image_caption: >-
   Orange Triangles semi-pro basketball team, 1938. Monte Irvin is seated 2nd
   from the left. Photo Credit - "Nice Guys Finish First the Autobiography of
   Monte Irvin" http://www.state.nj.us/hangout_nj/200605_monte_irvin_p1.html 
 name: Gordon Roberts
 subthemes: 'Childhood, athletics, race, Oakwood Avenue, YMCA'
+image_url: ' reverse-archaeology-content/images/Orange Triangles.jpg'
 ---
 Gordon Roberts was born in 1927, and he grew up in the Oakwood Avenue neighborhood. As a young man he was successful athlete, playing both basketball and football at Orange High School. He also played for the Orange Triangles, a semi-professional basketball team in the regional Negro League. The Triangles played in Orange until the mid-1960s and are fondly remembered.
 
@@ -27,4 +26,4 @@ Learn more:
 
 Listen to interview with Gordon Roberts and others at Walter G. Alexander Home community room  
 
-Read summary of interview with Gordon Roberts and others at Walter G. Alexander Home community room  
+Read summary of interview with Gordon Roberts and others at Walter G. Alexander Home community room
