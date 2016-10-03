@@ -6,6 +6,10 @@ title: Paul Modugno remember the games they played in Orange
 headline: '“That’s called scotta la porta, ‘on your back’, that what it means” '
 name: Paul Modugno
 subthemes: 'Italian American community, Childhood, Games, Nostalgia'
+image_url: ' reverse-archaeology-content/images/Paul and John Modugno in front of Johns Market.JPG '
+image_caption: >-
+  Paul and John Modugno in front of their family's market, which is still in
+  business at 100 S. Essex Avenue
 ---
 Paul Modugno was born in Orange in 1935. His father, John Modugno, owned John’s Market at the corner of South Essex and Hulbert Street (now Capuchin Way). Paul grew up in an apartment above the market and worked there along with his sister and parents. As an adult, Paul was an Orange fireman. He later moved to Livingston, but has kept John’s Market open. For the last 30 or so years many of the men who grew up in the Italian neighborhood in Orange between Lincoln Avenue and South Center Street gather at John’s for lunch, to play pinochle, and to talk about the old community. Paul has turned his store into a museum of this community with old photographs and other memorabilia mounted on all of the walls. Some of these are older pictures from his childhood and others are much more recent additions that he and the other guys have put up. These Thursday gatherings are a gold mine for history.
 
