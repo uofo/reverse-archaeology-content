@@ -6,8 +6,7 @@ title: Mildred Harris remembers the Oakwood Avenue community
 headline: >-
   “They make the best milkshakes in the world … Every time I got me some money …
   I go to Harry’s” 
-image_url: >-
-  https://www.flickr.com/photos/141494535@N03/29330051571/in/album-72157673225101106/
+image_url: ' reverse-archaeology-content/images/Parrow Street Storefront.jpg'
 image_caption: >-
   Out front of a store on Parrow Street in the 1950s (courtesy of Rebecca
   Doggett)
@@ -26,4 +25,4 @@ Listen to the full interview with Mildred Harris
 
 Read a summary of the interview with Mildred Harris
 
-View pages of the 1963?? City Directory showing some of the stores Mrs. Harris mentions   
+View pages of the 1963?? City Directory showing some of the stores Mrs. Harris mentions
