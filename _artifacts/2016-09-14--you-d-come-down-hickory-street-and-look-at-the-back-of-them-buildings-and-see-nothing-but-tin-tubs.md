@@ -6,13 +6,12 @@ title: Mildred Harris remembers living on Central Place
 headline: >-
   “You’d come down Hickory Street and look at the back of them buildings and see
   nothing but tin tubs”
-image_url: >-
-  https://www.flickr.com/photos/141494535@N03/29301227362/in/album-72157673225101106/
 image_caption: >-
   Example of a tin tub like those most every household had before having hot
   running water was the norm
   (http://falln-stock.deviantart.com/art/Vintage-Metal-Bathtub-3-33026513) 
 name: Mildred Harris
+image_url: ' reverse-archaeology-content/images/Tin tub.jpg'
 ---
 Like many others in the African American and Italian American neighborhoods interveiwed, Mildred Harris grew up in a home without hot water. Families would heat water on the stove to use for cooking and laundry as well as bathing. Ms. Harris remembers that homes up and down Central Place had tin tubs hanging on their back walls from nails. Tin tubs would get pulled into the house so people could take baths. They were long so “two babies or two kids could get in there to save water.” 
 
@@ -26,5 +25,4 @@ Listen the full interview with Mildred Harris
 
 Read a summary of the interview with Mildred Harris  
 
-Historic Photo of Walter G. Projects?  
-
+Historic Photo of Walter G. Projects?
