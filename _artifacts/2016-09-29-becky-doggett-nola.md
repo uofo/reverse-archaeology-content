@@ -19,13 +19,11 @@ As a young adult, Becky became active in the local chapter of the NAACP. She sup
 
 Learn more:  
 
-[Listen to the interview with Becky Doggett on Soundcloud](https://soundcloud.com/user-893189553/becky-doggett-intrerview-11-16-15)  
-
-[Listen to interview with Becky Doggett on Google Drive](http://www.driveplayer.com/#fileIds=0B4QJ_ZmieGfGb3NLbkhNNmhJX1k&userId={userId})
+[Listen to the interview with Becky Doggett](https://soundcloud.com/user-773139664/becky-doggett-interview-11-16-15)  
 
 Read a summary of the interview with Becky Doggett  
 
-[Listen to the interview with Morris "Shorty" Thomas and Becky Doggett](https://soundcloud.com/user-893189553/morris-thomas-and-becky-doggett-interview-7-14-16)  
+[Listen to the interview with Morris "Shorty" Thomas and Becky Doggett](https://soundcloud.com/user-773139664/morris-thomas-and-becky-doggett-interview-7-14-2016)
 
 Read a summary of the interview with Morris "Shorty" Thomas and Becky Doggett  
 
