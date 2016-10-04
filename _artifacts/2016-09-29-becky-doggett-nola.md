@@ -19,7 +19,9 @@ As a young adult, Becky became active in the local chapter of the NAACP. She sup
 
 Learn more:  
 
-[Listen to the interview with Becky Doggett](https://soundcloud.com/user-893189553/becky-doggett-intrerview-11-16-15)  
+[Listen to the interview with Becky Doggett on Soundcloud](https://soundcloud.com/user-893189553/becky-doggett-intrerview-11-16-15)  
+
+[Listen to interview with Becky Doggett on Google Drive](http://www.driveplayer.com/#fileIds=0B4QJ_ZmieGfGb3NLbkhNNmhJX1k&userId={userId})
 
 Read a summary of the interview with Becky Doggett  
 
