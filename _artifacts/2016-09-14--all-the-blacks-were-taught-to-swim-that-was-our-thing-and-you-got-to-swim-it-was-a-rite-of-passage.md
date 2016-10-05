@@ -21,6 +21,6 @@ Losing the Ys was especially damaging because, according to Preston, “all of [
 
 Learn more:
 
-Listen to interview with Gordon Roberts, Butch Preston, Goldie Burbage, Susan Ray, and Tom Puryear  
+[Listen to interview with Gordon Roberts, Butch Preston, Goldie Burbage, Susan Ray, and Tom Puryear](https://soundcloud.com/user-773139664/oakwood-group-interview-4-7-15-part-1)  
 
 Read summary of interview with Gordon Roberts, Butch Preston, Goldie Burbage, Susan Ray, and Tom Puryear
