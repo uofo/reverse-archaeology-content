@@ -18,3 +18,5 @@ Learn more:
 [Listen to Fran McLain's Interview](https://soundcloud.com/user-773139664/fran-mcclain-interview-10-1-15)  
 
 Read a summary of Fran McLain's interview
+
+[Listen to a group interview held at the Waltyer G. Alexander center with Gordon Roberts, Fran McClain, Butch Preston, Timothy Jones, and many others](https://soundcloud.com/user-773139664/walter-g-alexander-group-interview-12-16-15)
