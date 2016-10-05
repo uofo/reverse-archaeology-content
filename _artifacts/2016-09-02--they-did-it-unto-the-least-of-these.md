@@ -13,4 +13,6 @@ In 1958, Ernest Thompson organized the Committee for More Democratic Schools to 
 
 Learn more:  
 
-Read Homeboy Came to Orange
+[Read Homeboy Came to Orange](https://docuzilla.github.io/23-hazel-lemke/00b46f5isrnw-homeboy-came-to-orange-a-story-of-people-s-power.pdf)
+
+[Learn more about Ernest Thompson](http://www.universityoforange.org/newsite/homeboy-came-to-orange)
