@@ -21,7 +21,7 @@ Expect for Woody’s, where Mildred works, none of these businesses still exist.
 
 Learn More:
 
-Listen to the full interview with Mildred Harris
+[Listen to the full interview with Mildred Harris](https://soundcloud.com/user-773139664/mildred-hicks-harris-interview-11-9-2015)
 
 Read a summary of the interview with Mildred Harris
 
