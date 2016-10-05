@@ -17,7 +17,7 @@ These beautiful buildings give Main Street what Karen calls “good bones,” me
 
 Learn more:
 
-Listen to Karen Wells tour of Main Street in Orange
+[Listen to Karen Wells tour of Main Street in Orange](https://soundcloud.com/user-773139664/karen-wells-main-street-walk-12-12-15)
 
 Read a summary of Karen Wells tour of Main Street in Orange
 
