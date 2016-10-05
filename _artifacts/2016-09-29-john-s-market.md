@@ -17,11 +17,13 @@ One of the most exciting stories for the men is about playing a game when they w
 
 Learn more:  
 
-Listen to the interview with Paul Modugno and Louis Genfra  
+[Listen to Part 1 of the interview with Paul Modugno and Louis Ginefra](https://soundcloud.com/user-773139664/paul-modugno-louis-ginerfra-interview-10-22-15-part-1)  
 
-Read a summary of the interview with Paul Modugno and Louis Genfra  
+[Listen to Part 2 of the interview with Paul Modugno and Louis Ginefra](https://soundcloud.com/user-773139664/paul-modugno-louis-ginerfra-interview-10-22-15-part-2)  
 
-Listen to the  interview with Anthony Benevento and Joe McCardle  
+Read a summary of the interview with Paul Modugno and Louis Ginefra  
+
+[Listen to the  interview with Anthony Benevento and Joe McCardle](https://soundcloud.com/user-773139664/anthony-benevento-joe-mccardle-interview-10-29-15)  
 
 Read a summary of the interview with Anthony Benevento and Joe McCardle  
 
