@@ -13,7 +13,9 @@ Debbie Gallo was born in Orange and lived with her extended family in a two-fami
 
 Learn more:  
 
-Listen to the full interview with Debbie Gallo  
+[Listen to Part 1 of the interview with Debbie Gallo](https://soundcloud.com/user-773139664/debbie-gallo-interview-10-15-15-part-1)  
+
+[Listen to Part 2 of the interview with Debbie Gallo](https://soundcloud.com/user-773139664/debbie-gallo-interview-10-15-15-part-2)  
 
 Read a summary of the interview with Debbie Gallo
 
