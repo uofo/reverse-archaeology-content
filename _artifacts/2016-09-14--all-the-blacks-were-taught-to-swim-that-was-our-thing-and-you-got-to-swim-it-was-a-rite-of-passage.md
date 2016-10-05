@@ -23,4 +23,4 @@ Learn more:
 
 Listen to interview with Gordon Roberts, Butch Preston, Goldie Burbage, Susan Ray, and Tom Puryear  
 
-Read summary of interview with Gordon Roberts, Butch Preston, Goldie Burbage, and
+Read summary of interview with Gordon Roberts, Butch Preston, Goldie Burbage, Susan Ray, and Tom Puryear
