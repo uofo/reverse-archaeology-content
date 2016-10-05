@@ -15,6 +15,6 @@ One of her fondest memories was going to the movies: “There were so many movie
 
 Learn more:  
 
-Listen to Fran McLain's Interview  
+[Listen to Fran McLain's Interview](https://soundcloud.com/user-773139664/fran-mcclain-interview-10-1-15)  
 
 Read a summary of Fran McLain's interview
