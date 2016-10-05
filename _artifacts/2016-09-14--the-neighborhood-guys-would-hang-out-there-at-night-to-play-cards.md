@@ -17,6 +17,8 @@ Debbie Gallo’s grandfather, James Freda, owned a candy store at the corner of 
 
 Learn more:
 
-Listen the full interview with Debbaie Gallo  
+[Listen to the Part 1 of the interview with Debbie Gallo](https://soundcloud.com/user-773139664/debbie-gallo-interview-10-15-15-part-1)  
+
+[Listen to the Part 2 of the interview with Debbie Gallo](https://soundcloud.com/user-773139664/debbie-gallo-interview-10-15-15-part-2)  
 
 Read a summary of the interview with Debbia Gallo
