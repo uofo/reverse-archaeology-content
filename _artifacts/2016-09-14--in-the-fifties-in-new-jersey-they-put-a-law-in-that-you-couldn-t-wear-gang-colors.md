@@ -19,7 +19,7 @@ This changed in a big way in the late 1950s with the emergence of drugs, especia
 
 Learn More:
 
-Listen to the full interview with Michael Lally  
+[Listen to the full interview with Michael Lally](https://soundcloud.com/user-773139664/michael-lally-interview-12-15-17)  
 
 Read a summary of the interview with Michael Lally
 
