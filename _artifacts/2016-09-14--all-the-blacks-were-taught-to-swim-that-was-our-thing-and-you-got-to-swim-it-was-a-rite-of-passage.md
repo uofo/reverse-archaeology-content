@@ -25,4 +25,4 @@ Learn more:
 
 Read summary of interview with Gordon Roberts, Butch Preston, Goldie Burbage, Susan Ray, and Tom Puryear  
 
-[Listen to a group interview held at the Waltyer G. Alexander center with Gordon Roberts, Fran McClain, Butch Preston, Timothy Jones, and many others](https://soundcloud.com/user-773139664/walter-g-alexander-group-interview-12-16-15)
+[Listen to a group interview with Gordon Roberts, Fran McClain, Butch Preston, Timothy Jones, and many others at the Walter G. Alexander Home community room](https://soundcloud.com/user-773139664/walter-g-alexander-group-interview-12-16-15)
