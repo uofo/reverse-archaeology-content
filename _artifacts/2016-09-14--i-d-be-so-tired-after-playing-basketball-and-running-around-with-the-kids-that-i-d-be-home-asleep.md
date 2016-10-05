@@ -24,6 +24,10 @@ Despite these restrictions young African Americans had plenty to do to help them
 
 Learn more:
 
+[Listen to interview with Gordon Roberts](https://soundcloud.com/user-773139664/gordon-roberts-interview-12-13-15)  
+
+Read summary of interview with Gordon Roberts  
+
 Listen to interview with Gordon Roberts and others at Walter G. Alexander Home community room  
 
 Read summary of interview with Gordon Roberts and others at Walter G. Alexander Home community room
