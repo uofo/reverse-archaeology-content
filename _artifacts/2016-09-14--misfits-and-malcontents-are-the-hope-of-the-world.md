@@ -17,8 +17,8 @@ Kids in the Outpost program used North Orange Baptist Church to play basketball,
 
 Learn more:
 
-Listen the full interview with Joe Thomasberger, Rebecca Doggett, and
+[Listen the full interview with Joe Thomasberger, Rebecca Doggett, and Karen Eonislawski](https://soundcloud.com/user-773139664/joe-thomasberger-interview-4-26-16)
 
-Read a suimmary of the interview with Joe Thomasberger, Rebecca Doggett, and
+Read a suimmary of the interview with Joe Thomasberger, Rebecca Doggett, and  Karen Eonislawski
 
 Pictures of North Orange Baptist Church??
