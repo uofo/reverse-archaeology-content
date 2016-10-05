@@ -21,7 +21,7 @@ The Alexander apartments were a public houseing project. Harris remenmbers it be
 
 Learn more:  
 
-Listen the full interview with Mildred Harris  
+[Listen the full interview with Mildred Harris](https://soundcloud.com/user-773139664/mildred-hicks-harris-interview-11-9-2015)  
 
 Read a summary of the interview with Mildred Harris  
 
