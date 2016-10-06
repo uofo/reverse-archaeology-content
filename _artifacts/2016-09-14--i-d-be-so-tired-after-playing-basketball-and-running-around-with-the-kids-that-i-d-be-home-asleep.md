@@ -28,5 +28,4 @@ Learn more:
 
 Read summary of interview with Gordon Roberts  
 
-[Listen to a group interview with Gordon Roberts and others atthe  Walter G. Alexander Home community room](https://soundcloud.com/user-773139664/walter-g-alexander-group-interview-12-16-15)  
-
+[Listen to a group interview with Gordon Roberts and others at the Walter G. Alexander Home community room](https://soundcloud.com/user-773139664/walter-g-alexander-group-interview-12-16-15)
