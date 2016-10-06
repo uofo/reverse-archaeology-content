@@ -21,7 +21,7 @@ Learn more:
 
 [Listen to the interview with Becky Doggett](https://soundcloud.com/user-773139664/becky-doggett-interview-11-16-15)  
 
-[Read a summary of the interview with Becky Doggett](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Becky%20Doggett%2011-16-15%2C%20b.%20%7E1939%20(_).pdf)  
+[Read a summary of the interview with Becky Doggett](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Becky%20Doggett%2011-16-15.pdf)  
 
 [Listen to the interview with Morris "Shorty" Thomas and Becky Doggett](https://soundcloud.com/user-773139664/morris-thomas-and-becky-doggett-interview-7-14-2016)
 
