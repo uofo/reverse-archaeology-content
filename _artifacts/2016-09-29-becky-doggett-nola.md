@@ -27,4 +27,4 @@ Read a summary of the interview with Becky Doggett
 
 Read a summary of the interview with Morris "Shorty" Thomas and Becky Doggett  
 
-Read a newspaper artiacle about the 1963 election campaign
+Read a newspaper article about the 1963 election campaign
