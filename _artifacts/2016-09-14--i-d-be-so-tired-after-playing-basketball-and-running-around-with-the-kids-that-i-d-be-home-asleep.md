@@ -26,6 +26,8 @@ Learn more:
 
 [Listen to interview with Gordon Roberts](https://soundcloud.com/user-773139664/gordon-roberts-interview-12-13-15)  
 
-Read summary of interview with Gordon Roberts  
+[Read summary of interview with Gordon Roberts](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Gordon%20Roberts%2012-13-15%2C%20b.%201927.pdf)  
 
-[Listen to a group interview with Gordon Roberts and others at the Walter G. Alexander Home community room](https://soundcloud.com/user-773139664/walter-g-alexander-group-interview-12-16-15)
+[Listen to a group interview with Gordon Roberts and others at the Walter G. Alexander Home community room](https://soundcloud.com/user-773139664/walter-g-alexander-group-interview-12-16-15)  
+
+[Monte Irvin Baseball Hall of Fame biography](http://baseballhall.org/hof/irvin-monte) 
