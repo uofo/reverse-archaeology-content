@@ -30,4 +30,4 @@ Learn more:
 
 [Listen to a group interview with Gordon Roberts and others at the Walter G. Alexander Home community room](https://soundcloud.com/user-773139664/walter-g-alexander-group-interview-12-16-15)  
 
-[Monte Irvin Baseball Hall of Fame biography](http://baseballhall.org/hof/irvin-monte) 
+[Monte Irvin Baseball Hall of Fame biography](http://baseballhall.org/hof/irvin-monte)
