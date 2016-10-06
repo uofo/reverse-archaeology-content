@@ -21,6 +21,6 @@ Learn more:
 
 [Read a summary of Karen Wells tour of Main Street in Orange](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Karen%20Wells%20-%20Main%20Street%20Walk%20-%2012-12-15.pdf)
 
-[Read Orange Historic Commission Design Guidelines](www.crgorangenj.com/files/Design_Guidelines_for_Historic_Districts2.pdf)  
+[Read Orange Historic Commission Design Guidelines](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Design_Guidelines_for_Historic_Districts2.pdf)  
 
 [Read about the Metcalf family in Orange](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Karen%20Wells%20-%20The%20Metcalf%20family%20in%20Orange.pdf)
