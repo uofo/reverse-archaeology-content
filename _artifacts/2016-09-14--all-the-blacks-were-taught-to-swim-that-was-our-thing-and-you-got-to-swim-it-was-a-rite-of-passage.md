@@ -23,6 +23,6 @@ Learn more:
 
 [Listen to interview with Gordon Roberts, Butch Preston, Goldie Burbage, Susan Ray, and Tom Puryear](https://soundcloud.com/user-773139664/oakwood-group-interview-4-7-15-part-1)  
 
-Read summary of interview with Gordon Roberts, Butch Preston, Goldie Burbage, Susan Ray, and Tom Puryear  
+[Read summary of interview with Gordon Roberts, Butch Preston, Goldie Burbage, Susan Ray, and Tom Puryear](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Oakwood%20Group%20Interview%204-7-15-1.pdf)  
 
 [Listen to a group interview with Gordon Roberts, Fran McClain, Butch Preston, Timothy Jones, and many others at the Walter G. Alexander Home community room](https://soundcloud.com/user-773139664/walter-g-alexander-group-interview-12-16-15)
