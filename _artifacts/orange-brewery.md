@@ -17,6 +17,6 @@ There were attempts to save the factory. For example in January 1980, the city a
 
 Learn More:  
 
-[Read the full article on the closing of Rheingold Brewery](reverse-archaeology-content/images/OT 1-17-80-1-Rehingold to gasohol.jpg )
+Read the full article on the closing of Rheingold Brewery - Image/PDF?
 
 [Learn more about the Orange Breweries](http://freepages.history.rootsweb.ancestry.com/~orangebrew/)
