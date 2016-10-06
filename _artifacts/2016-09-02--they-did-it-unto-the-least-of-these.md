@@ -17,4 +17,4 @@ Learn more:
 
 [Learn more about Ernest Thompson](http://www.universityoforange.org/newsite/homeboy-came-to-orange)
 
-Pictures of Ernie? Family? Mindy?
+Newspaper coverage? Pictures of Ernie? Family? Mindy?  - Image/PDF?
