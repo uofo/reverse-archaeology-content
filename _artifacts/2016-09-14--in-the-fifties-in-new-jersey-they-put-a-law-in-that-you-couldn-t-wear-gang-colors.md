@@ -21,7 +21,7 @@ Learn More:
 
 [Listen to the full interview with Michael Lally](https://soundcloud.com/user-773139664/michael-lally-interview-12-15-17)  
 
-Read a summary of the interview with Michael Lally
+[Read a summary of the interview with Michael Lally](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Michael%20Lally%2012-15-17%20b.%201942.pdf)
 
 [Visit Michael Lally's Blog, Lally's Alley](http://lallysalley.blogspot.com/)  
 
