@@ -23,6 +23,6 @@ Learn More:
 
 [Listen to the full interview with Mildred Harris](https://soundcloud.com/user-773139664/mildred-hicks-harris-interview-11-9-2015)
 
-Read a summary of the interview with Mildred Harris
+[Read a summary of the interview with Mildred Harris](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Mildred%20Hicks%20Harris%2011-9-2015%2C%20b.%201936.pdf)
 
 View pages of the 1963?? City Directory showing some of the stores Mrs. Harris mentions
