@@ -20,3 +20,5 @@ Learn more:
 [Read a summary of Fran McLain's interview](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/McClain%20Fran%2010-1-15.pdf)
 
 [Listen to a group interview with Gordon Roberts, Fran McClain, Butch Preston, Timothy Jones, and many others at the Walter G. Alexander Home community room](https://soundcloud.com/user-773139664/walter-g-alexander-group-interview-12-16-15)
+
+Hollywood Theater add??  - Image/PDF?
