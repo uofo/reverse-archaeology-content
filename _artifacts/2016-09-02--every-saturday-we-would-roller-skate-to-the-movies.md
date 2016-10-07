@@ -23,4 +23,4 @@ Learn more:
 
 [Read an article on the history of theaters in East Orange and the reoponing of the Hollywood Theater in 2005](http://query.nytimes.com/gst/fullpage.html?res=9E06E0D71F31F93BA25751C1A9639C8B63)   
 
-Hollywood Theater add??  - Image/PDF?
+Hollywood Theater ad??  - Image/PDF?
