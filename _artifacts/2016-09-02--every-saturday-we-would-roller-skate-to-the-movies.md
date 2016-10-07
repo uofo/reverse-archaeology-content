@@ -21,4 +21,6 @@ Learn more:
 
 [Listen to a group interview with Gordon Roberts, Fran McClain, Butch Preston, Timothy Jones, and many others at the Walter G. Alexander Home community room](https://soundcloud.com/user-773139664/walter-g-alexander-group-interview-12-16-15)
 
+[Read an article on the history of theaters in East Orange and the reoponing of the Hollywood Theater in 2005](http://query.nytimes.com/gst/fullpage.html?res=9E06E0D71F31F93BA25751C1A9639C8B63)   
+
 Hollywood Theater add??  - Image/PDF?
