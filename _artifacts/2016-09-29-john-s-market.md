@@ -1,7 +1,7 @@
 ---
 location_latitude: 40.770032
 location_longitude: -74.232499
-published: false
+published: true
 title: Paul Modugno remember the games they played in Orange
 headline: '“That’s called scotta la porta, ‘on your back’, that what it means” '
 name: Paul Modugno

@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: 'Festival Latino de Orange, NJ September 24, 2016'
 ---
 ## A New Post

@@ -1,7 +1,7 @@
 ---
 location_latitude: 40.767806
 location_longitude: -74.227073
-published: false
+published: true
 title: >-
   Becky Doggett remembers the Non-Partisan Organization for Liberal Action in
   1963
