@@ -65,6 +65,7 @@ prose:
       - name: "themes dropdown"
         field:
           element: "multiselect"
+          label: "Themes"
           alterable: true
           options:
             - name: "The History of US cities you can learn in Orange, NJ"
