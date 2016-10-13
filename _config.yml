@@ -62,3 +62,20 @@ prose:
         field:
           element: "text"
           label: "Subthemes"
+      - name: "themes dropdown"
+        field:
+          element: "multiselect"
+          alterable: true
+          options:
+            - name: "The History of US cities you can learn in Orange, NJ"
+              value: "history-us-cities"
+            - name: "Orange is a Crossroads"
+              value: "crossroads"
+            - name: "The Corner of Good Hope"
+              value: "corner-good-hope"
+            - name: "Lifecycle"
+              value: "lifecycle"
+            - name: "Industry and Infrastructure"
+              value: "industry-and-infrastructure"
+            - name: "Nostalgia and Curiosity"
+              value: "nostalgia"
