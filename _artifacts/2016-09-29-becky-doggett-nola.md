@@ -7,7 +7,7 @@ title: >-
   1963
 headline: “We were the young radicals”
 name: Becky Doggett and Morris Thomas
-themes: 'Race, politics, protest, African American community'
+subthemes: 'Race, politics, protest, African American community'
 image_url: ' reverse-archaeology-content/images/Shorty''s Barbershop-NOLA-Cropped.jpg '
 image_caption: >-
   Shorty's Barbershop on Hickory Street, campaign headquarters for NOLA and Ray
