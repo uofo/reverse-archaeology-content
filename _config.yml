@@ -56,14 +56,6 @@ prose:
           label: "Learn More URL"
       - name: "themes"
         field:
-          element: "text"
-          label: "Themes"
-      - name: "subthemes"
-        field:
-          element: "text"
-          label: "Subthemes"
-      - name: "themes dropdown"
-        field:
           element: "multiselect"
           label: "Themes"
           alterable: true
@@ -80,3 +72,7 @@ prose:
               value: "industry-and-infrastructure"
             - name: "Nostalgia and Curiosity"
               value: "nostalgia"
+      - name: "subthemes"
+        field:
+          element: "text"
+          label: "Subthemes"
