@@ -12,6 +12,10 @@ image_caption: >-
   Doggett)
 name: Mildred Harris
 subthemes: 'Childhood, African American community, Stores'
+themes:
+  - corner-good-hope
+  - lifecycle
+  - nostalgia
 ---
 Mildred Harris was born in Orange in 1936. Her family home was on Central Place, where she still lives, though in a different house. Her parents both came to New Jersey from the south (Georgia and Virginia) as part of the great migration. Both held working class jobs. Her father, Herman Hicks, worked at Swifts Meats and a percolator factory in Newark. Her mother, Satarrah Hicks, trained to be a teacher but could not find a job teaching because she was black, so she worked in a laundry. 
 
