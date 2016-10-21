@@ -12,6 +12,9 @@ image_url: ' reverse-archaeology-content/images/Shorty''s Barbershop-NOLA-Croppe
 image_caption: >-
   Shorty's Barbershop on Hickory Street, campaign headquarters for NOLA and Ray
   Murphy's city council bid
+themes:
+  - history-us-cities
+  - crossroads
 ---
 Rebecca ‘Becky’ Doggett was born in Orange in 1941. She grew up in her family home on Wilson Place just down the street from Union Baptist Church. She was a bright child who skipped grades in elementary school, took four years of Latin at Orange High School, and  attended Oberlin and Upsala Colleges. Her childhood was filled with riding bikes, playing hop scotch, hide and seek, jumping rope and “giants steps.” Her family was very active at Union Baptist Church. She remembered the music program, holidays services, and women’s volunteer group. She was part of the junior missionaries and brownie and girl scout troops. 
 
