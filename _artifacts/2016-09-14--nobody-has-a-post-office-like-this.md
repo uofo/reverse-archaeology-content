@@ -10,6 +10,10 @@ image_caption: >-
   Main Street
 name: Karen Wells
 subthemes: 'Main Street, Historic Preservation Commission '
+themes:
+  - history-us-cities
+  - crossroads
+  - industry-and-infrastructure
 ---
 Karen Wells has lived in Orange since 1987. Since moving she has committed her energy to documenting and fighting to preserve the historic architectural fabric of the city. One of her major achievments, was the esatbalishment of a Historic Preservation Commission in the  City of Orange in 2015. Wells guided members of the Reverse Archaeology team on a tour of Main Street in Orange and taught us how to see the buildings and the street in a new way. What we learned is that there is a great deal of history on view if we look up. On the tour she told stories about a number of impressive buildings including the Brown Building, Main Street School, the Post Office, Rossi Paints, First Presbyterian Church, the Metcalf Building, the Orange Public Library, the former Central Hotel, the Metropolitan Building, City Hall, the former Orange Music Hall, the Hudson City Bank, and the Masonic Hall. 
 
