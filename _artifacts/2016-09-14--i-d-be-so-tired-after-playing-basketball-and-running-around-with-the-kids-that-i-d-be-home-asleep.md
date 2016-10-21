@@ -15,6 +15,10 @@ image_caption: >-
 name: Gordon Roberts
 subthemes: 'Childhood, athletics, race, Oakwood Avenue, YMCA'
 image_url: ' reverse-archaeology-content/images/Orange Triangles.jpg'
+themes:
+  - corner-good-hope
+  - lifecycle
+  - nostalgia
 ---
 Gordon Roberts was born in 1927, and he grew up in the Oakwood Avenue neighborhood. As a young man he was successful athlete, playing both basketball and football at Orange High School. He also played for the Orange Triangles, a semi-professional basketball team in the regional Negro League. The Triangles played in Orange until the mid-1960s and are fondly remembered.
 
