@@ -10,6 +10,10 @@ image_url: ' reverse-archaeology-content/images/Blackboard Jungle poster.jpg'
 image_caption: 'Poster for the film, Blackboard Jungle, 1955'
 name: Michael Lally
 subthemes: 'Childhood, gangs, Irish, Orange Valley'
+themes:
+  - crossroads
+  - lifecycle
+  - nostalgia
 ---
 Michael Lally was born at Orange Memorial Hospital in 1942. He grew up ensconced in the Irish-American community in South Orange, but considered all of the Oranges his stomping ground. He is a respected poet and author of several books. Lally’s memories of the 1940s and 50s in the Oranges are viewed through the eyes of a young Irish man striving to be cool and break the rules. Much of this attitude was incorporated into the well-known 1950s film, Blackboard Jungle. 
 
