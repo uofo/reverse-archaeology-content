@@ -8,6 +8,9 @@ image_url: ' reverse-archaeology-content/images/Bob Slater.jpg'
 image_caption: Bob Slater (courtesy JoeThomasberger)
 name: Joe Thomasberger
 subthemes: 'community service, YMCA, NOrth Orange Baptist Church'
+themes:
+  - corner-good-hope
+  - lifecycle
 ---
 Reverend Joe Thomasberger came to Orange in the 1960s to serve as the minister for North Orange Baptist Church, formerly located at the corner of Main and Hickory Streets. Joe’s memories of Orange in the 1960s and 70s are colored specifically by his great admiration of Bob Slater, who ran the “street ministry” of the Orange YMCA. Slater’s job was to reach out to underserved populations in the city to offer counseling and support. With Joe’s support, Slater established the “Outpost” program in 1968 at North Orange Baptist Church to provide African American youths a safe place to go after school to hang out. 
 
