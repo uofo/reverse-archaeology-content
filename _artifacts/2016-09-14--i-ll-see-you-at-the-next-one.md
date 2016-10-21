@@ -12,6 +12,9 @@ image_caption: >-
 name: Racial Discrimination
 subthemes: 'Race, violence, protest'
 image_url: ' reverse-archaeology-content/images/Darrel Walker protest.jpg'
+themes:
+  - history-us-cities
+  - corner-good-hope
 ---
 On Oct 31, 1979, Darrell Walker, a 17-year old African American youth, was shot by two Orange police officers. Walker had led the officers on a car chase after running a stop sign. The chase ended when Walker lost control of the car and hit a tree. As police officers approached the disabled car, Walker supposedly “reached for something shiny,” at which point the officers fired their weapons and shot the youth five times. They then handcuffed his lifeless body to an ambulance gurney for transport to East Orange General Hospital, where he was pronounced dead.
 
