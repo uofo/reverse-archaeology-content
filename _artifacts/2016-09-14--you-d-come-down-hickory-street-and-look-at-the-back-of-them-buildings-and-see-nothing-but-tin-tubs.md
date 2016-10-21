@@ -12,6 +12,10 @@ image_caption: >-
   (http://falln-stock.deviantart.com/art/Vintage-Metal-Bathtub-3-33026513) 
 name: Mildred Harris
 image_url: ' reverse-archaeology-content/images/Tin tub.jpg'
+themes:
+  - history-us-cities
+  - lifecycle
+  - nostalgia
 ---
 Like many others in the African American and Italian American neighborhoods interveiwed, Mildred Harris grew up in a home without hot water. Families would heat water on the stove to use for cooking and laundry as well as bathing. Ms. Harris remembers that homes up and down Central Place had tin tubs hanging on their back walls from nails. Tin tubs would get pulled into the house so people could take baths. They were long so “two babies or two kids could get in there to save water.” 
 
