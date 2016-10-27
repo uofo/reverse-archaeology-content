@@ -3,6 +3,11 @@ location_latitude: 0
 location_longitude: 0
 published: false
 title: Remembering the Haitian Earthquake
+headline: '"This is how it is in crisis: people pull together in solidarity." '
+image_url: images/haitian-flag-1.jpg
+themes:
+  - crossroads
+subthemes: Lanbi
 ---
 Martial arrived late to ESL and was working diligently on his presentation. At about 8:30 he pulled up a podium and asked me to excuse him while he spoke in Kreyòl. It was important to him to address the students on the anniversary of the earthquake.  
 
