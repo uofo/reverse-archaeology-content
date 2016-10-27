@@ -13,4 +13,10 @@ themes:
   - lifecycle
 subthemes: 'Maggie Thompson, From One to Ninety-One, University of Orange, FreeD'
 ---
-Maggie Thompson wrote her memoir at 91. She lived on Olcott Street in Orange for many years. With her daughter Mindy Fullilove and her granddaughter Molly Kaufman, she was a founder of the University of Orange.  Maggie received her FreeD, the highest honor, from the University of Orange for writing the memoir. 
+Maggie Thompson wrote her memoir at 91. She lived on Olcott Street in Orange for many years. With her daughter Mindy Fullilove and her granddaughter Molly Kaufman, she was a founder of the University of Orange.  Maggie received her FreeD, the highest honor, from the University of Orange for writing the memoir.   
+
+Learn More:  
+
+[Watch the Video](https://vimeo.com/31960816)  
+
+[See a photo of Maggie with Councilman Ben Jones](images/Maggie_BenJones.jpg)
