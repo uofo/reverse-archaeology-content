@@ -15,6 +15,10 @@ His theme was solidarity.  He spoke about how after the quake, the people from t
 
 He asked everyone to stand for a moment of silence to remember the dead. Then everyone sang the Haitian national anthem. Rodrigue to played a song by a Haitian activist singer. Some of the students joined in song. Then he read a poem about faith and resilience.  
 
+Learn More:  
+
+[A succinct analysis of current (and past) events in Haiti](http://www.slate.com/articles/news_and_politics/politics/2016/09/the_truth_about_the_clintons_and_haiti.html)
+
 
 
 
