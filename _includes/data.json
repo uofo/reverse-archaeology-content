@@ -19,5 +19,13 @@
             "slug": {{ page.slug | jsonify }},
             "content": {{ page.content | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
-    ]
+    ],
+    "themes": {
+        "history-us-cities": "The History of US cities you can learn in Orange, NJ",
+        "crossroads": "Orange is a Crossroads",
+        "corner-good-hope": "The Corner of Good Hope",
+        "lifecycle": "Lifecycle",
+        "industry-and-infrastructure": "Industry and Infrastructure",
+        "nostalgia": "Nostalgia and Curiosity"
+    }
 }
