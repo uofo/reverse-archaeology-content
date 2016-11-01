@@ -12,6 +12,14 @@
             "headline": {{ artifact.headline | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
     ],
+    "bios": [
+        {% for bio in site.bios %}{
+            "name": {{ bio.name | jsonify }},
+            "title_affiliation": {{ bio.title_affiliation | jsonify }},
+            "image_url": {{ bio.image_url | jsonify }},
+            "content": {{ bio.content | jsonify }}
+        }{% unless forloop.last %},{% endunless %}{% endfor %}
+    ],
     "pages": [
         {% for page in site.html_pages %}{
             "title": {{ page.title | jsonify }},
