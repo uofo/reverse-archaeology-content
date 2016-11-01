@@ -15,6 +15,8 @@ collections:
     output: true
   bios:
     output: true
+  funders:
+    output: true
   partners:
     output: true
 
@@ -81,6 +83,19 @@ prose:
           element: "text"
           label: "Subthemes"
     _bios:
+      - name: "name"
+        field:
+          element: "text"
+          label: "Name"
+      - name: "title_affiliation"
+        field:
+          element: "text"
+          label: "Title / Affiliation"
+      - name: "image_url"
+        field:
+          element: "text"
+          label: "Image URL"
+    _funders:
       - name: "name"
         field:
           element: "text"
