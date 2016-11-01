@@ -100,10 +100,6 @@ prose:
         field:
           element: "text"
           label: "Name"
-      - name: "title_affiliation"
-        field:
-          element: "text"
-          label: "Title / Affiliation"
       - name: "image_url"
         field:
           element: "text"
