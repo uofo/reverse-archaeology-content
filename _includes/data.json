@@ -15,6 +15,7 @@
     "bios": [
         {% for bio in site.bios %}{
             "name": {{ bio.name | jsonify }},
+            "slug": {{ bio.slug | jsonify }},
             "title_affiliation": {{ bio.title_affiliation | jsonify }},
             "image_url": {{ bio.image_url | jsonify }},
             "content": {{ bio.content | jsonify }}
