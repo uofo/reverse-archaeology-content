@@ -13,6 +13,8 @@ markdown: kramdown
 collections:
   artifacts:
     output: true
+  bios:
+    output: true
 
 webrick:
   headers:
@@ -76,3 +78,16 @@ prose:
         field:
           element: "text"
           label: "Subthemes"
+    _bios:
+      - name: "name"
+        field:
+          element: "text"
+          label: "Name"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title / Affiliation"
+      - name: "image_url"
+        field:
+          element: "text"
+          label: "Image URL"
