@@ -1,0 +1,7 @@
+---
+published: false
+name: Test Bio
+title_affiliation: Test Title
+image_url: 'http://nrinstitute.org/wp-content/uploads/2015/02/Jason-Wise-NRI-headshot.jpg'
+---
+This is a test bio Donec molestie at lorem et vulputate. Sed vel felis nulla. Maecenas ut aliquam tellus, quis tempus orci. Ut et tortor ut lorem tristique fermentum vitae vel tellus. Proin sed mauris ex. Phasellus sit amet orci in orci aliquam cursus. Vivamus porttitor turpis et vehicula pellentesque. Aenean pretium, dolor a interdum suscipit, nisl lorem scelerisque lacus, at commodo felis orci sit amet erat. Praesent laoreet bibendum turpis et varius. Ut ac tortor vitae dui aliquam convallis.
