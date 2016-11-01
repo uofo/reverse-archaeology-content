@@ -15,6 +15,8 @@ collections:
     output: true
   bios:
     output: true
+  partners:
+    output: true
 
 webrick:
   headers:
@@ -91,3 +93,16 @@ prose:
         field:
           element: "text"
           label: "Image URL"
+    _partners:
+      - name: "name"
+        field:
+          element: "text"
+          label: "Name"
+      - name: "image_url"
+        field:
+          element: "text"
+          label: "Image URL"
+      - name: "website"
+        field:
+          element: "text"
+          label: "Website"
