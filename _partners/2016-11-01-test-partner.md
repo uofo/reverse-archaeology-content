@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: Test Partner
 image_url: >-
   http://www.universityoforange.org/newsite/wp-content/uploads/2014/12/cropped-UofO_Website_Banner1.jpg
