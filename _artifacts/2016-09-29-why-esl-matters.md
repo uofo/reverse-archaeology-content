@@ -4,17 +4,15 @@ location_longitude: 0
 published: true
 title: Why ESL matters
 ---
-## A New Post
-
 To succeed in the U.S. economy today, new immigrants must master English. In the past, when factory jobs were more abundant, it was possible to get a good job with rudimentary English. Today’s service oriented workforce is not so accommodating. New immigrants are pressed by the need to pay rent and bills and provide for their families (both in the U.S. and back home) while they are still getting a footing in a new, foreign place. They need English to have a chance at staying afloat.
 
 While learning English is the gateway to success, immigrants often struggle to find classes that are free or low-cost, have available slots, and are offered at times that coordinate with home and work schedules. Frequently, immigrants have limited literacy in their own language, which makes acquiring a new language as an adult all the more daunting.
 
 Immigrant women may delay learning English for years after they arrive in the States. Their double burden of paid work and unpaid domestic labor makes it hard to find time for classes. Furthermore, when women are socialized to be unassuming and quiet, this interferes with language acquisition, which benefits from active practice and confidence. Unfortunately, lack of English language skill may disadvantage women not only in the workplace, but in the family. When the adult man in the household, through either ESL classes, or more active English language practice, masters English before the adult woman, this may cause a subtle shift in household power dynamics. For example, a Salvadoran man reported that his daughter doesn’t trust her mother to help with homework. The child knows that her mother doesn’t speak English, so she always double checks her homework with her father, believing that her mother doesn’t know what she’s doing.  Lack of English proficiency, therefore, may undercut a mother’s authority in the domestic sphere, a traditional area of female power.  In addition, children take on an adult role as they translate the English-speaking world, and institutions of power (schools, government agencies) to their parents, thus undermining both male and female parental authority.
 
-Field Notes: 
+**Field Notes:** 
 
-October 2015 Orange Adult School ESL class
+**October 2015 Orange Adult School ESL class**
 
 During the fall, the Orange Adult School offers two sections of ESL at Rosa Parks Elementary School. Two nights a week, from 6-9 PM, adult learners squeeze into child-sized desks in a clean, orderly classroom. They periodically gaze around the room at all the posters and signs on the wall, which extort children to try harder, believe in themselves, and succeed. Some of these adult learners have children who attend this school; roles are reversed in the evening as the parents occupy their children’s seats.
 
@@ -28,7 +26,7 @@ Students were asked to introduce themselves. My favorite was “Edison”—did 
 
 The teacher told me that the students were mostly from El Salvador. This did not match up with my informal chatting at break. I spoke to three women—one from Mexico, one from Ecuador, and one from Guatemala. At break, the students sat in language clusters, which also took on a racial dimension. The two Haitian women from one class sat together. Three Latin American together women clustered. Across from them, four Haitian women and one woman from Eritrea sat together. I was interested that the Eritrean sat with the Haitians. They identified her to me as African. Where are you from, I asked her? “Africa” she responded. From where? “East Africa.” From where in East Africa? “Ethiopia.” “Ah,” I replied, “There are a lot of Eritreans around here.” “I’m from Eritrea,” she exclaimed in surprise. 
 
-Lanbi ESL February 2016
+**Lanbi ESL February 2016**
 
 We met in the parish hall since the boiler is still out in the church.  I worked with K. and A. Both women are in their 50s with grown children and are really hard workers—devoted and loyal. A. says that she likes to come to class and she enjoys her English homework. K. is modest, and says she’s not good at English and is afraid to come to class—I think she’s teasing, but there’s a little anxiety.
 
@@ -40,7 +38,7 @@ Question: What do you dream about? A: I dream about my children’s education.
 
 Question: What do you think of the police? K. likes the police: she thinks they are kind and provide security. She has had no personal encounters, though, with the police. A. recounts a story about how a police officer stayed with her for an hour when she was dizzy and had to pull over to the side of the road. Another time when she accidently ran through a new stop sign; she apologized and was let go without a ticket. I mentioned that some of my students had negative encounters with the police and felt that black men were pulled over disproportionately. A. seemed sympathetic, but K. didn’t want to hear it. I told them I suggested that the men should burst into tears to get out of the ticket. K. softened into a smile.
 
-Lanbi ESL March 2016
+**Lanbi ESL March 2016**
 
 “My favorite color is black, like me!” AN
 
@@ -56,8 +54,8 @@ When we reviewed an American saying, “You are what you drive,” K. dismissed 
 
 At the end of the class, I asked them if they wanted homework. Oh yes, they readily agreed. K. approached me about the computer class-were we going to be able to offer a computer class on Fridays? This is a big disappointment. I was disappointed that three different MSU students who had promised to teach had each dropped out for different reasons at the last minute. I haven’t been able to give Lanbi the staff it needs to launch the program. “It’s true,” Martial, joked, “we’ve never encountered an obstacle before.” These are people who persist! 
 
-Lanbi May 2016
+**Lanbi May 2016**
 
 Martial comes every Tuesday to ESL class in Orange from his NY job, no matter how late. Rodrigue really runs the show with his constant, consistent presence.  The table of “beginning” women learners gets larger and larger. My intermediate conversational crew is more constant at 3-4 students.
 
-A. is rock solid. Accustomed to church discipline, she comes every Tuesday and Wednesday night and has been coming for years. She has been in the U.S. for 30 years. K. teased her last week about forgetting her country, she’s been in the U.S. for so long. Both K. and KN were critical that A. hadn’t visited Haiti recently. KN proudly noted that she returns to Haiti every year. Her mother lives there. She and her husband own a bar and she needs to check on it. But KN last week let it slip out that she likes to party. Horrors! K fell silent, probably anticipating A’s response.  A gently chided KN—why does she do that? Doesn’t she know that God will make her feel better?  KN protested that she goes to church, but she likes to go out! She’s 27! A. was skeptical and offered to bring her to church. 
+A. is rock solid. Accustomed to church discipline, she comes every Tuesday and Wednesday night and has been coming for years. She has been in the U.S. for 30 years. K. teased her last week about forgetting her country, she’s been in the U.S. for so long. Both K. and KN were critical that A. hadn’t visited Haiti recently. KN proudly noted that she returns to Haiti every year. Her mother lives there. She and her husband own a bar and she needs to check on it. But KN last week let it slip out that she likes to party. Horrors! K fell silent, probably anticipating A’s response.  A gently chided KN—why does she do that? Doesn’t she know that God will make her feel better?  KN protested that she goes to church, but she likes to go out! She’s 27! A. was skeptical and offered to bring her to church.
