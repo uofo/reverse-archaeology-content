@@ -3,6 +3,11 @@ location_latitude: 0
 location_longitude: 0
 published: false
 title: 'The Fortune Teller Meets the Ezili '
+headline: >-
+  “The Haitian religion is very powerful. You need to acknowledge the spirits.
+  They appreciate being noticed.”
+themes:
+  - crossroads
 ---
 Although most of my clients are children at this elementary school fair, a few parents stop by my table to have their cards read.  
 
