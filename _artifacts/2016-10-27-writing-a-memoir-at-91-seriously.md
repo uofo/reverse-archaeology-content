@@ -4,7 +4,7 @@ location_longitude: 0
 published: false
 title: Writing a memoir at 91. Seriously.
 headline: '"what are you going to do, sit in your living room and watch TV?"'
-image_url: images/invite_inside.jpg
+image_url: reverse-archaeology-content/images/invite_inside.jpg
 image_caption: >-
   This is the invitation to the book launch party for Maggie's book, From One to
   Ninety-One
