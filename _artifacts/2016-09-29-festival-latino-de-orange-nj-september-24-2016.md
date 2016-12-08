@@ -6,8 +6,6 @@ title: 'Festival Latino de Orange, NJ September 24, 2016'
 image_url: images/IMG_3309.JPG
 image_caption: Expert hands make pupusas
 ---
-## A New Post
-
 It’s a brilliant Sunday afternoon. The sky is the same vibrant blue as the Salvadoran flags festooning South Day Street, a hard scrabble block bounded to the north by the enormous shell of Orange Memorial Hospital, and to the south by Freeway drive, a thoroughfare for cars spat off the interstate. Beyond Freeway drive lies the hard boundary of I-280 and its six lanes of high-speed traffic sunk in a canyon below street level. El Salvador restaurant anchors this struggling block of grassy lots and tenements with a flash of color and a fleet of vans that deliver “un pedacito de El Salvador” throughout the city of Orange. 
 
 A generation ago, South Day Street was the heart of Orange’s Italian American community. Our Lady of Mt. Carmel Catholic Church, situated on the next corner, was built at the turn of the last century to serve the Italian Catholic community. Today its congregants are mostly Spanish speaking from Latin America.  This was an afternoon to celebrate those new residents.
