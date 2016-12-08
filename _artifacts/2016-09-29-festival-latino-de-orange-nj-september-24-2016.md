@@ -14,4 +14,4 @@ September 24, 2016 marked the 8th annual “Festival Latino de Orange.” The st
 
 Learn More:  
 
-[See a slide show of images from the 8th Annual "Festival Latino de Orange."](http://imgur.com/a/PVoCh)
+[[See a slide show of images from the 8th Annual "Festival Latino de Orange."]](http://imgur.com/a/PVoCh)
