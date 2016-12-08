@@ -22,4 +22,6 @@ The following comments from the audience reveal the way gun violence is an unack
 
 “People don’t want to speak out, be seen. If we don’t stand up for our kids, though, we’re making it worse.”  
 
+Learn More:  
 
+[Click here to see student artwork](http://imgur.com/a/y02A6)
