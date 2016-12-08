@@ -13,3 +13,6 @@ themes:
 
 I didn’t want to get tangled in red tape and ideologies, but we did organize a coalition. We are trying to get the church to go out to the community to bring peace, to get kids to value their lives. We refuse to sit silent during this black on black crime here that is killing our neighborhoods and making positive initiatives difficult.”  
 
+Learn More:  
+
+[Click here to see photos from the Unity Rally](http://imgur.com/a/8Gs3M)
