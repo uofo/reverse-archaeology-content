@@ -4,7 +4,7 @@ location_longitude: 0
 published: false
 title: Remembering the Haitian Earthquake
 headline: '"This is how it is in crisis: people pull together in solidarity." '
-image_url: reverse-archaeology-content/images/haitian-flag-1.jpg
+image_url: images/haitian-flag-1.jpg
 themes:
   - crossroads
 subthemes: Lanbi
@@ -18,7 +18,3 @@ He asked everyone to stand for a moment of silence to remember the dead. Then ev
 Learn More:  
 
 [A succinct analysis of current (and past) events in Haiti](http://www.slate.com/articles/news_and_politics/politics/2016/09/the_truth_about_the_clintons_and_haiti.html)
-
-
-
-
