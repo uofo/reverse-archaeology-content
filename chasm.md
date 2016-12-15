@@ -47,7 +47,7 @@ Planned shrinkage was a policy of withdrawing public and private resources from 
 
 **Deindustrialization** 
 Deindystrialization is defined as the social and economic change caused by the removal of industrial capacity in a region._(link to hat factory area AS)_
-![Orange was once home to a bustling hat-making industrial district]({{site.baseurl}}/images/Deindustrialization_2.jpg)
+![The Hat District in Orange was once home to a bustling industrial district]({{site.baseurl}}/images/Deindustrialization_2.jpg)
 _Orange was once home to a bustling hat-making industrial district_
 
 **Mass incarceration** 
