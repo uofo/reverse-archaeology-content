@@ -19,6 +19,8 @@ collections:
     output: true
   partners:
     output: true
+  slideshowimages:
+    output: true
 
 webrick:
   headers:
@@ -117,3 +119,23 @@ prose:
         field:
           element: "text"
           label: "Website"
+    _slideshowimages:
+      - name: "caption"
+        field:
+          element: "text"
+          label: "Caption"
+      - name: "image_url"
+        field:
+          element: "text"
+          label: "Image URL"
+      - name: "page"
+        field:
+          element: "select"
+          label: "Page"
+          options:
+            - name: "About"
+              value: "about"
+            - name: "Chasm"
+              value: "chasm"
+            - name: "Prism"
+              value: "prism"
