@@ -1,6 +1,6 @@
 ---
 page: chasm
-published: false
+published: true
 caption: >-
   A photograph of bulldozers razing buildings that once stood where the highway
   would run
