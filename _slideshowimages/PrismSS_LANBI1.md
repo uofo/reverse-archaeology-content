@@ -1,6 +1,6 @@
 ---
 page: prism
-published: false
+published: true
 caption: >-
   Darline Allen teaches a class for LANBI, a Haitian Cultural Organization, at
   the First Unitarian Universalist Church in Orange
