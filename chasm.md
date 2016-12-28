@@ -22,44 +22,44 @@ We also have to take a few steps back and take an even longer view of the fractu
 
 These are some of the series of policies that are part of Serial Forced Displacement:
 
-**Segregation**
+**Segregation**  
 Segregation limited the spaces black citizens could occupy and the resources to which they had
-Access._(link to AS about segregation in Orange)_
-![The fence in Orange Park only runs along the sides of the park that were traditionally black neighborhoods]({{site.baseurl}}/images/Segregation_2.jpg)
+Access._(link to AS about segregation in Orange)_  
+![The fence in Orange Park only runs along the sides of the park that were traditionally black neighborhoods]({{site.baseurl}}/images/Segregation_2.jpg)  
 _The fence in Orange Park only runs along the sides of the park that were traditionally black neighborhoods_
 
-**Redlining**
-Beginning in 1935, the Federal Home Owners Loan Corporation sent people out to rate neighborhoods to guide investment. The ratings system gave low grades for areas with old buildings and high percentages of foreign born, Jewish or Negro residents, all considered “undesirable racial elements.” _(link to RL page with Area Descriptions)_
-![This is the redlining map from Orange in the 1930s - most neighborhoods in Orange received C or D ratings]({{site.baseurl}}/images/Redline_2.jpg)
+**Redlining**  
+Beginning in 1935, the Federal Home Owners Loan Corporation sent people out to rate neighborhoods to guide investment. The ratings system gave low grades for areas with old buildings and high percentages of foreign born, Jewish or Negro residents, all considered “undesirable racial elements.” _(link to RL page with Area Descriptions)_  
+![This is the redlining map from Orange in the 1930s - most neighborhoods in Orange received C or D ratings]({{site.baseurl}}/images/Redline_2.jpg)  
 _This is the redlining map from Orange in the 1930s - most neighborhoods in Orange received C or D ratings_
 
-**Urban Renewal**
-Under the Federal Housing Act of 1949, cities were able to declared areas “blighted,” seize the land using powers of eminent domain, and sell the cleared land to developers at a reduced price. Under urban renewal, 2,500 projects carried out in 993 American cities, displacing approximately one million people. Seventy-five percent of those displaced were people of color.
+**Urban Renewal**  
+Under the Federal Housing Act of 1949, cities were able to declared areas “blighted,” seize the land using powers of eminent domain, and sell the cleared land to developers at a reduced price. Under urban renewal, 2,500 projects carried out in 993 American cities, displacing approximately one million people. Seventy-five percent of those displaced were people of color.  
 
-**Highway Development**
-Need to write description
-_(link to 280 page(s))_
-![Highway 280 was built through the center of Orange in the 1960s, a decision that deeply effected the Black and Italian neighborhoods of Orange]({{site.baseurl}}/images/Highway_2.jpg)
+**Highway Development**  
+Need to write description  
+_(link to 280 page(s))_  
+![Highway 280 was built through the center of Orange in the 1960s, a decision that deeply effected the Black and Italian neighborhoods of Orange]({{site.baseurl}}/images/Highway_2.jpg)  
 _Highway 280 was built through the center of Orange in the 1960s, a decision that deeply effected the Black and Italian neighborhoods of Orange_
 
-**Planned Shrinkage**
+**Planned Shrinkage**  
 Planned shrinkage was a policy of withdrawing public and private resources from targeted areas. In New York City in the 1970s, the closing of fire stations in poor neighborhoods led to massive destruction of housing, reaching 80% of some health areas.
 
-**Deindustrialization** 
+**Deindustrialization**   
 Deindystrialization is defined as the social and economic change caused by the removal of industrial capacity in a region._(link to hat factory area AS)_
 ![The Hat District in Orange was once home to a bustling industrial district]({{site.baseurl}}/images/Deindustrialization_2.jpg)
 _Orange was once home to a bustling hat-making industrial district_
 
-**Mass incarceration** 
+**Mass incarceration**   
 Mass Incarceration refers to shifts in criminal justice and policing policies that led to massive increases in the number of people under the authority of penal system. This increase has fallen severely on young black men.
 
-**The Foreclosure Crisis** 
-The Foreclosure Crisis refers to a widespread epidemic of foreclosures resulting from improper mortgages issued by banks and other lending agencies.
-![Predatory policies led to many families loosing their homes through foreclosure]({{site.baseurl}}/images/Foreclosure_2.jpg)
+**The Foreclosure Crisis**   
+The Foreclosure Crisis refers to a widespread epidemic of foreclosures resulting from improper mortgages issued by banks and other lending agencies.  
+![Predatory policies led to many families loosing their homes through foreclosure]({{site.baseurl}}/images/Foreclosure_2.jpg)  
 _Predatory policies led to many families loosing their homes through foreclosure_
 
-**Gentrification** is defined as the process of replacing lower income residents of an area with higher income residents._(link to AS about Ironworks)_
-![Ironworks, once home to youth-led arts collective ORNG Ink, now rented out to tenants that can pay a higher rent]({{site.baseurl}}/images/Gentrification_2.jpg)
+**Gentrification** is defined as the process of replacing lower income residents of an area with higher income residents._(link to AS about Ironworks)_  
+![Ironworks, once home to youth-led arts collective ORNG Ink, now rented out to tenants that can pay a higher rent]({{site.baseurl}}/images/Gentrification_2.jpg)  
 _Ironworks, once home to youth-led arts collective ORNG Ink, is now rented out to tenants that can pay a higher rent_
 
 Serial forced displacement is a particularly grave threat to health because it repeatedly attacks the very foundation of human health: the stable neighborhood that has intergenerational knowledge of how to survive in a given place.  Destruction of neighborhoods traumatizes people and destroys wealth of all kinds, including people’s economic, political, social, and cultural capital. Serial forced displacement is unjust and creates inequity.
