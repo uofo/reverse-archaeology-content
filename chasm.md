@@ -25,7 +25,7 @@ These are some of the series of policies that are part of Serial Forced Displace
 **Segregation**  
 Segregation limited the spaces black citizens could occupy and the resources to which they had
 Access._(link to AS about segregation in Orange)_  
-![The fence in Orange Park only runs along the sides of the park that were traditionally black neighborhoods]({{site.baseurl}}/images/Segregation_2.jpg)  
+![The fence in Orange Park only runs along the sides of the park that were traditionally black neighborhoods](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/images/Segregation_2.jpg)  
 _The fence in Orange Park only runs along the sides of the park that were traditionally black neighborhoods_
 
 **Redlining**  
