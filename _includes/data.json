@@ -37,6 +37,13 @@
             "content": {{ page.content | markdownify | replace: 'img src="/', abs_img_base | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
     ],
+    "slideshowimages": [
+        {% for slideshowimage in site.slideshowimages %}{
+            "page": {{ slideshowimage.page | jsonify }},
+            "image_url": {{ slideshowimage.image_url | prepend: "/" | prepend: site.baseurl | prepend: site.url | jsonify }},
+            "caption": {{ slideshowimage.caption | jsonify }}
+        }{% unless forloop.last %},{% endunless %}{% endfor %}
+    ],
     "themes": {
         "history-us-cities": "The History of US cities you can learn in Orange, NJ",
         "crossroads": "Orange is a Crossroads",
