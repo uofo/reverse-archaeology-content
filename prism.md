@@ -4,6 +4,8 @@ level: 1
 slug: prism
 title: Prism
 published: true
+blurb: >-
+    This is the blurb, which shows up in the little box on the page
 ---
 
 “We look not at the things which are what you would call seen, but at the things which are not seen. For the things which are seen are temporal. But the things which are not seen are eternal.” 
