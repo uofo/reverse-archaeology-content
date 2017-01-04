@@ -106,6 +106,10 @@ prose:
         field:
           element: "text"
           label: "Image URL"
+      - name: "website_url"
+        field:
+          element: "text"
+          label: "Website URL"
     _partners:
       - name: "name"
         field:
