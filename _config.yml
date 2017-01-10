@@ -15,6 +15,8 @@ collections:
     output: true
   bios:
     output: true
+  blurbs:
+    output: true
   funders:
     output: true
   partners:
@@ -101,6 +103,20 @@ prose:
         field:
           element: "text"
           label: "Image URL"
+    _blurbs:
+      - name: "page"
+        field:
+          element: "select"
+          label: "Page"
+          options:
+            - name: "About"
+              value: "about"
+            - name: "Archive"
+              value: "archive"
+            - name: "Chasm"
+              value: "chasm"
+            - name: "Prism"
+              value: "prism"
     _funders:
       - name: "name"
         field:

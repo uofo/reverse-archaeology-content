@@ -23,6 +23,12 @@
             "content": {{ bio.content | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
     ],
+    "blurbs": [
+        {% for blurb in site.blurbs %}{
+            "page": {{ blurb.page | jsonify }},
+            "content": {{ blurb.content | jsonify }}
+        }{% unless forloop.last %},{% endunless %}{% endfor %}
+    ],
     "funders": [
         {% for funder in site.funders %}{
             "name": {{ funder.name | jsonify }},
