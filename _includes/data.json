@@ -8,6 +8,7 @@
             {% if artifact.location_latitude %}"location_latitude": {{artifact.location_latitude}},{% endif %}
             {% if artifact.location_longitude %}"location_longitude": {{artifact.location_longitude}},{% endif %}
             {% if artifact.image_url %}"image_url": {{ artifact.image_url | strip | jsonify }},{% endif %}
+            {% if artifact.image_thumbnail_url %}"image_thumbnail_url": {{ artifact.image_thumbnail_url | strip | jsonify }},{% endif %}
             {% if artifact.image_caption %}"image_caption": {{ artifact.image_caption | jsonify }},{% endif %}
             "themes": {{ artifact.themes | jsonify }},
             "headline": {{ artifact.headline | jsonify }}
