@@ -46,6 +46,10 @@ prose:
         field:
           element: "text"
           label: "Image Caption"
+      - name: "image_thumbnail_url"
+        field:
+          element: "text"
+          label: "Image Thumbnail URL (appears on theme page)"
       - name: "name"
         field:
           element: "text"
