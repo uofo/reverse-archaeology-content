@@ -42,7 +42,6 @@
             "title": {{ page.title | jsonify }},
             "level": {{ page.level }},
             "slug": {{ page.slug | jsonify }},
-            "blurb": {{ page.blurb | jsonify }},
             "content": {{ page.content | markdownify | replace: 'img src="/', abs_img_base | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
     ],
