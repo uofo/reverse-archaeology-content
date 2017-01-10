@@ -1,5 +1,5 @@
 ---
 page: archive
-published: false
+published: true
 ---
 This is the archive blurb
