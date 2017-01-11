@@ -7,6 +7,10 @@ headline: '#disruptviolence'
 themes:
   - corner-good-hope
   - lifecycle
+image_url: images/UnityRallyOrangePark.jpg
+image_caption: >-
+  Residents, parishioners, clergy and council people gather near Orange Park for
+  the Unity Rally for Peace
 ---
 "This tragic news of the death of these two young men has disrupted the lives of not only their families, but everyone in the city and elsewhere, who can identify with senseless gun taking place in their communities," said Rev. Dr. Lanel D. Guyton, pastor of St. Matthew AME Church. "I have reached out to the Mayor of Orange, councilpersons, fellow clergy in Orange, East Orange and Newark to join us in a Unity Rally for Peace in the City of Orange. Let us disrupt our normal Sunday services and take the 'church to the street,' in support of this rally for peace."  
 
