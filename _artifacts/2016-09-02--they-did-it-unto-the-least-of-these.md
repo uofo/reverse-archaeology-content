@@ -2,7 +2,7 @@
 location_latitude: 0
 location_longitude: 0
 published: true
-title: Desgregating Orange's Public Schools
+title: The Fight to Desgregate Orange's Public Schools
 image_caption: Gerrymandered school distict lines
 name: 'Ernest Thompson, Homeboy Came to Orange. '
 subthemes: 'Race, Education, Activism, Oakwood Avenue, CRG'
