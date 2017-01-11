@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Remembering the Haitian Earthquake
 headline: Field notes from Lanbi
 image_url: images/Martial.JPG
