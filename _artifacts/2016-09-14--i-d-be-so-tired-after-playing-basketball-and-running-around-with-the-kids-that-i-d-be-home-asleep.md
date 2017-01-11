@@ -20,7 +20,7 @@ themes:
   - lifecycle
   - nostalgia
 ---
-Gordon Roberts was born in 1927, and he grew up in the Oakwood Avenue neighborhood. As a young man he was successful athlete, playing both basketball and football at Orange High School. He also played for the Orange Triangles, a semi-professional baseball team in the regional Negro League. The Triangles played in Orange until the mid-1960s and are fondly remembered.
+Gordon Roberts was born in 1927, and he grew up in the Oakwood Avenue neighborhood. As a young man he was successful athlete, playing both basketball and football at Orange High School. He also played for the Orange Triangles, a semi-professional basketball team in the regional Negro League. The Triangles played in Orange until the mid-1960s and are fondly remembered.
 
 Having basketball leagues divided by race was one example of segregation that Mr., Roberts experienced. For example, African American kids went to 9th grade at the Colgate School prior to going to Orange High School, while the white kids went straight to the High School. The movie theaters required African Americans to sit in the balcony seats and there were several restaurants that refused to serve blacks.
 
