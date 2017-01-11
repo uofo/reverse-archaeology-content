@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Update on Central Valley and Highland Train Station Development
 headline: '"Orange is on the verge of exploding"'
 themes:
@@ -16,5 +16,4 @@ Joseph Alpert, a developer brought into the Valley by HANDS in 2006, spoke. Albe
 
 Andrew Davlouros from HANDS spoke about the “Gateway to Valley Project” which involves eight new affordable units with “creative people.” The refrain of the evening was that the Gateway project was: “bringing people into the Valley who might not have otherwise come,” “Creative people,” and a “great mix of people who are community oriented. People from all over. People who know the Valley.” This would drive ridership on the train line and justify more stops at the Highland Station. “We’re drivers behind Valley development.” We want it “fully occupied by creative people.” Development drives people into the neighborhood who wouldn’t be here. It generates buzz.”    
 
-The bishop remarked at closing that when the church arrived 18 years ago, no one wanted to come to the valley. It was full of drug dealers and the Adams Bar was a real problem. The crowd immediately murmured in agreement. Now, he said, the area is changed for the better.    
-
+The bishop remarked at closing that when the church arrived 18 years ago, no one wanted to come to the valley. It was full of drug dealers and the Adams Bar was a real problem. The crowd immediately murmured in agreement. Now, he said, the area is changed for the better.
