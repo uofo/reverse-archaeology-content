@@ -3,6 +3,13 @@ location_latitude: 0
 location_longitude: 0
 published: true
 title: Why ESL matters
+image_url: images/KateLanbi.JPG
+image_caption: >-
+  ESL Class is led by LANBI, a Haitian cultural organization that operates at
+  the HUUB, First UU Church of Essex County
+themes:
+  - crossroads
+  - industry-and-infrastructure
 ---
 To succeed in the U.S. economy today, new immigrants must master English. In the past, when factory jobs were more abundant, it was possible to get a good job with rudimentary English. Today’s service oriented workforce is not so accommodating. New immigrants are pressed by the need to pay rent and bills and provide for their families (both in the U.S. and back home) while they are still getting a footing in a new, foreign place. They need English to have a chance at staying afloat.
 
