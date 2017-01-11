@@ -23,3 +23,4 @@ Learn More:
 
 [Read an article about the visit in the New York Times](http://www.nytimes.com/2009/04/19/realestate/19njzo.html)  
 
+[Read an article about the visit in the Star Ledger](http://www.nj.com/news/local/index.ssf/2009/04/french_urbanist_sees_potential.html)
