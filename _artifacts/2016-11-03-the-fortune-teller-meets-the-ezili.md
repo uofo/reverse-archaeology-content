@@ -26,6 +26,6 @@ A second spirit my client evokes is Ezile Danto, the hardworking, solitary, some
 
 Danto and Freda are two forces that guide my client through the uncertainties of everyday life.  “They intervene in life… when you are feeling mushy, your mind tells you what you need and what you don’t need—they help you know,” she explains.  “I dreamed of prosperity. That morning I caught the number 733. It proves they are listening. But you have to make sure you pay them. They broke my cell phone—it was broken in a strange way, so I know it was them.”  
 
-“The Haitian religion is very powerful,” she explained to me. “You need to acknowledge the spirits. They appreciate being noticed.”
+“The Haitian religion is very powerful,” she explained to me. “You need to acknowledge the spirits. They appreciate being noticed.”  
 
-To learn more about Haitian Vodou http://www.research.ucsb.edu/cbs/projects/haiti/kosanba/
+[To learn more about Haitian Vodou you can read this article](http://www.research.ucsb.edu/cbs/projects/haiti/kosanba/)
