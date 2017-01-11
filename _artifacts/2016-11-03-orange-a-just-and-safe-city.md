@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: 'Orange: a Just and Safe City'
 headline: >-
   "How do we take our frustration and love for our city and get active in making
@@ -10,6 +10,7 @@ themes:
   - corner-good-hope
 ---
 On Tuesday, June 14, RADICAL Orange organized a community forum in conjunction with the Considering Harm exhibit sponsored by Valley Arts. Organizers asked, “How do we take our frustration and love for our city and get active in making positive changes in our community? 
+
 June was National Gun Violence Awareness month, and Not Orange Inc, HANDS Inc, the University of Orange, and ValleyArts used the opportunity to continue a conversation about violence in Orange and how citizens might heal and take concrete steps to transform Orange into a Just and Safe city for all its residents.  
 
 On display at the library were several paintings by Orange High School Students that revealed the way they understood and thought about violence. All of the students had been touched by gun violence: one young artist lost her brother, and all three of the young people lived with fear and anxiety not knowing who would be shot next.  
