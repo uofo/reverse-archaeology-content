@@ -13,8 +13,4 @@ On July 29, 1956, one of the great New Jerseyans, Paul Robeson, gave a concert a
 
 Learn More:  
 
-[Read this article on Wikipedia.](https://en.wikipedia.org/wiki/Paul_Robeson)  
-
-
-
-
+[Read this article on Wikipedia.](https://en.wikipedia.org/wiki/Paul_Robeson)
