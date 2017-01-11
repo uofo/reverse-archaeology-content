@@ -20,6 +20,11 @@ There were attempts to save the factory. For example in January 1980, the city a
 
 Learn More:  
 
-Read the full article on the closing of Rheingold Brewery - Image/PDF?
+Read Orange Transcript articles about the brewery:  
+- [Orange Transcript October 1979](images/OT 10-18-79-5-Brewery Property Fate.jpg)
+- [Orange Transcript November 1979](images/OT 11-1-79-3-Brewery Sale.jpg)
+- [Orange Transcript December 1979](images/OT 12-13-79-1-Rheingold to Gasohol.jpg)
+- [Orange Transcript January 1980](images/OT 1-17-80-1-Rehingold to gasohol.jpg)
+
 
 [Learn more about the Orange Breweries](http://freepages.history.rootsweb.ancestry.com/~orangebrew/)
