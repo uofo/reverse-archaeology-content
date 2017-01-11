@@ -1,16 +1,16 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: A Just and Safe Orange
-headline: '"What does crime mean to you?"'
+headline: Field notes from a community forum with youth about safety
 themes:
   - corner-good-hope
   - RADICAL Orange
 image_url: images/IMG_1897.JPG
 image_caption: Youth Panelists from Just and Safe Orange
 ---
-On the evening of November 30th, 2015, a group of young people assembled in the Unitarian Universalist Church on Cleveland Street to discuss the problem of violence in Orange, and how the youth might contribute to both an understanding of it and a solution. It was the second in a series of community forums about safety and justice in Orange, organized by Khemani Gibson, Courtney Sweet, Patricia Rogers and Shannon Sorhaindo. The following are some of the questions posed to the youth panel, and an edited synopsis of their answers:  
+On the evening of November 30th, 2015, a group of young people assembled in the Unitarian Universalist Church on Cleveland Street to discuss the problem of violence in Orange, and how the youth might contribute to both an understanding of it and a solution. It was the second in a series of community forums about safety and justice in Orange, organized by Khemani Gibson, Courtney Sweat, Patricia Rogers and Shannon Sorhaindo. The following are some of the questions posed to the youth panel, and an edited synopsis of their answers:  
 
 **What does crime mean to you?** 
 
