@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Murmur orange
 headline: '"This is [murmur]. What''s the code?"'
 image_url: images/Khemani and Friend.jpg
