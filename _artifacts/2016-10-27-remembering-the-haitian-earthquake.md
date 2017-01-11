@@ -3,7 +3,7 @@ location_latitude: 0
 location_longitude: 0
 published: false
 title: Remembering the Haitian Earthquake
-headline: '"This is how it is in crisis: people pull together in solidarity." '
+headline: Field notes from Lanbi
 image_url: images/haitian-flag-1.jpg
 themes:
   - crossroads
