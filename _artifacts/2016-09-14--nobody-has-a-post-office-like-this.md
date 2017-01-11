@@ -3,7 +3,7 @@ location_latitude: 40.771938
 location_longitude: -74.229664
 published: true
 title: 'Karen Wells remarks on the architectural beauty of Main Street in Orange  '
-headline: “Nobody has a post office like this!”
+headline: Beehives on Main Street
 image_url: ' reverse-archaeology-content/images/Beehive.jpg'
 image_caption: >-
   Beehive molding on the side exterior wall of the Hudson City Bank building on
