@@ -5,6 +5,8 @@ published: false
 title: The Fortune Teller
 themes:
   - lifecycle
+  - nostalgia
+headline: 'Forgiveness, Victim and Perseverance.  What do these cards mean?'
 ---
 I use oracle cards as as a kind of Rorschach test, a projective visioning exercise that invites the viewer to interpret the meaning behind cards that act as prompts. The cards open conversations that are frequently very deep and revealing about issues that are important to the viewer.  For example, one card say “Hope.” I will ask the viewer if there is something in his or her life now that offers hope? We enter into a conversation about hope—whether it exists now in the present, or perhaps its potential to unfold in the future.   
 
@@ -25,4 +27,4 @@ Joy—the meaning was obvious. “I smile a lot. I bring joy to people, ” he e
 
 Faith— was also clear. “I believe in a better future.”  
 
-We chose an additional clarifying card. “Enlightenment.” This means gaining an understanding, I explained. “He wants to be in the NBA,” his sister volunteered. “So perhaps enlightenment for you comes when you learn what it takes to get into the NBA!” He nodded in agreement.  
+We chose an additional clarifying card. “Enlightenment.” This means gaining an understanding, I explained. “He wants to be in the NBA,” his sister volunteered. “So perhaps enlightenment for you comes when you learn what it takes to get into the NBA!” He nodded in agreement.
