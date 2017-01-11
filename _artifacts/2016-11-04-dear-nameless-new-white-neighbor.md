@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Dear nameless new white “neighbor”
 headline: >-
   "How can you chose to live somewhere with so many black people when you’re
@@ -9,6 +9,8 @@ headline: >-
 themes:
   - history-us-cities
 ---
+_From an opinion piece written for Blavity by Khemani Gibson, Orange Resident_
+
 Welcome to the neighborhood… I guess. The first time I saw you, I was getting dropped off after coming from a community event. As I started to get out of the car, I saw you walking your dog and stopped. You see, we knew it was coming, considering our small majority black town was a 30-minute train ride from Manhattan, but every new white face always catches us by surprise.   
 
 The second time I saw you was that Saturday. It was almost midnight as I began the trek from the train station up the hill I’ve lived on for my entire life, tired but filled with so many positive emotions. I had just come back from Brooklyn, where I witnessed the triumph of black love as my friend got engaged to her partner. I was also ecstatic that Elaine Thompson and Shelly-Ann Fraser-Pryce of my birth country Jamaica won gold and bronze respectively in the women's 100-meter final at the Olympics. Almost halfway up the hill, I recognized your dog even in the darkness and wondered why you chose so late to walk it. As I came closer, I saw you stop by the tree in front of my Aunty’s apartment building and then a second later make a beeline across the street as if something beckoned you over there.     
@@ -25,4 +27,6 @@ My only question for you is how can you chose to live somewhere with so many bla
 
 Best,   
 
-Khemani Gibson       
+Khemani Gibson  
+
+[Read the article on Blavity](http://blavity.com/white-neighbor-crossed-street-when-saw-me)
