@@ -11,7 +11,7 @@ headline: >-
 image_caption: >-
   1945 newspaper clipping showing Gordon Roberts in an 'Oakwood Y' jersey
   receiving a trophy for the team's basketball victory. 
-name: Gordon Roberts and Butch Preston
+name: 'Gordon Roberts, Butch Presto and Goldie Burbage'
 subthemes: 'Race, Childhood, Nostalgia'
 image_url: ' reverse-archaeology-content/images/Gordon Roberts Oakwood Y.jpg'
 themes:
