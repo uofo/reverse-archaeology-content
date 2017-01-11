@@ -19,4 +19,7 @@ Renowned French urbanist, Michel Cantal-Dupart, came to Orange NJ in April 2009 
 
 Learn More:  
 
-[Watch this video to learn more about Cantal's visit to Orange.](https://www.youtube.com/watch?v=TjU5ESxFV10&t=3)
+[Watch this video to learn more about Cantal's visit to Orange.](https://www.youtube.com/watch?v=TjU5ESxFV10&t=3)  
+
+[Read an article about the visit in the New York Times](http://www.nytimes.com/2009/04/19/realestate/19njzo.html)  
+
