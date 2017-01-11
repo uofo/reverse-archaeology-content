@@ -8,6 +8,7 @@ headline: >-
   here."
 themes:
   - crossroads
+  - lifecycle
 ---
 Did most folks from El Salvador arrive during the civil war, or more recently? He thought about it for a minute. The civil war, he decided. Do people want to go back or stay here? Do they build homes in El Salvador and dream about retiring there? There’s a lot of dreaming he thinks. Some people buy property. But one thing he has noticed is that people have started burying their dead here. They used to fly the bodies back to El Salvador for burials. Now they are burying them here. He sees a lot because of his restaurant. Sometimes people won’t be able to afford a funeral and will leave a collection cup in his restaurant.  
 
@@ -21,4 +22,4 @@ Monroy went back to El Salvador recently. He stayed away from El Salvador for 17
 
 How does he feel now?   
 
-“Now I’m falling in love with my country again.”   
+“Now I’m falling in love with my country again.”
