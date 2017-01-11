@@ -3,13 +3,13 @@ location_latitude: 40.770662
 location_longitude: -74.236627
 published: true
 title: Don Dorflinger remembers his childhood on Mechanic Street
-image_caption: 'Typical 1950s Bingo game like Mr. Dorflinger played '
+image_caption: 'An image from '
 headline: >-
   “I would sneak upstairs to play bingo with my Aunt Lizzie since hers was on
   the only room with air conditioning”
 name: Don Dorflinger
 subthemes: 'Childhood, games, nostalgia'
-image_url: ' reverse-archaeology-content/images/Bingo set.jpg'
+image_url: images/MainSt.jpg
 themes:
   - crossroads
   - lifecycle
