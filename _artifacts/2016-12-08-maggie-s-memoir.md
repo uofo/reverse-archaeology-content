@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Maggie's Memoir
 headline: Maggie Thompson wrote her memoir at 91
 themes:
