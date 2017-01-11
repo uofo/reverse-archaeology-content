@@ -6,6 +6,11 @@ title: 'Youth Led Mayoral Debate '
 headline: '"The youth vote can drastically affect a candidate''s chances"'
 themes:
   - corner-good-hope
+  - lifecycle
+image_url: images/JSO_YLMayoral_IG_1.jpg
+image_caption: >-
+  RADICAL: Orange - Responsible Activists Dedicated Intellectuals Cultivating
+  Alternative Leadership
 ---
 The 2016 Mayoral race was ugly. Opponents of incumbent Mayor Dwayne Warren, a Democrat, accused him of opportunism and nepotism; he in turn dismissed them as unqualified for office. As the rhetoric heated up, challenger Councilman Kerry Coley, a lifelong Orange resident and former Orange police sergeant, filed a defamation case against Warren, charging that the Mayor falsely accused him of disseminating pornography. Meanwhile, challenger Janice Morrell, a member of the Orange Zoning Board, denounced Warren for his failure to protect the health of Orange residents, alleging that the city’s water supply was contaminated by elevated levels of lead and the newly renovated YMCA on Main Street was poisoned by mold.   
 
