@@ -4,10 +4,12 @@ location_longitude: -74.225979
 published: true
 title: Fran McClain remembers childhood on Oakwood Avenue
 headline: '"Every Saturday we would roller skate to the movies"'
-image_caption: The Hollywood Theater on Central Avenue in East Orange
+image_caption: >-
+  The Embassy Theater on Main St. in Orange in the 1930s. The building still
+  stands across the street from the Orange Public Library.
 name: Fran McClain
 subthemes: 'Childhood, Entertainment, Oakwood Avenue'
-image_url: ' reverse-archaeology-content/images/Hollywood Theater.jpg'
+image_url: images/EmbassyTheater.jpg
 themes:
   - history-us-cities
   - lifecycle
