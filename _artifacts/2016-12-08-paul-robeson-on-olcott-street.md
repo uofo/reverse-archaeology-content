@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Paul Robeson on Olcott Street
 headline: Paul Robeson Gave a Concert in Orange
 image_url: images/Paul Robeson barbecue004.jpg
