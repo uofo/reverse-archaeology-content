@@ -18,4 +18,3 @@ Maggie received her FreeD, University of Orange’s highest degree, for writing 
 Learn More:  
 
 [Watch Maggie talk about how the memoir-writing changed her life.](https://vimeo.com/31960816)
-
