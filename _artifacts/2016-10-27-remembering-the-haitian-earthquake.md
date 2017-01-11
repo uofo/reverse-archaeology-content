@@ -4,10 +4,11 @@ location_longitude: 0
 published: false
 title: Remembering the Haitian Earthquake
 headline: Field notes from Lanbi
-image_url: images/haitian-flag-1.jpg
+image_url: images/Martial.JPG
 themes:
   - crossroads
 subthemes: Lanbi
+image_caption: Martial BonHomme of LANBI
 ---
 Martial arrived late to ESL and was working diligently on his presentation. At about 8:30 he pulled up a podium and asked me to excuse him while he spoke in Kreyòl. It was important to him to address the students on the anniversary of the earthquake.  
 
