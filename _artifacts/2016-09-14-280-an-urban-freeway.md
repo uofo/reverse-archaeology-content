@@ -3,7 +3,7 @@ location_latitude: 40.769359
 location_longitude: -74.229524
 published: true
 title: Interstate 280 cuts through the heart of the City of Orange
-headline: '280 – an urban freeway '
+headline: 'Over 200 homes, business, churches, and community centers were demolished'
 image_caption: >-
   Traffic passing under the Hickory Street bridge moves along Route 280 which
   cut the City of Orange. Orange, NJ - Star-Ledger, 7/27/2016 (Robert Sciarrino
@@ -27,7 +27,7 @@ In Orange, the route for 280 cut through two historic working class communities.
 
 Most Italian families left Orange, many moving west to settle in the new suburbs. While some stayed in Orange, many African Americans also left, though, not being welcome in the new western suburbs, many moved to East Orange and Newark. This process intensified the segregation of communities by race so that by 1980, the majority of population in Orange and the other cities in the urban core were nonwhite, while the western and northern suburbs of Essex County were a vast majority white. The racial segregation of the region has only intensified since then. 
 
-From the beginning, the construction of 280 in Orange promoted calls for public housing so that the displaced could be relocated. These calls were answered with an urban renewal public housing project in the Washington-Doddtown section in the city’s North Ward. Construction for this housing project began in 1963 with apartments opened for use in the next few years. Whilethe new public housing provided a relocation option for some Orange residents displaced by 280, it moved them to the edge of the city far from the urban center, jobs, and public transportation. 
+From the beginning, the construction of 280 in Orange promoted calls for public housing so that the displaced could be relocated. These calls were answered with an urban renewal public housing project in the Washington-Doddtown section in the city’s North Ward. Construction for this housing project began in 1963 with apartments opened for use in the next few years. While the new public housing provided a relocation option for some Orange residents displaced by 280, it moved them to the edge of the city far from the urban center, jobs, and public transportation. 
 
 Many former residents of the African American and Italian American community were candid as they shared their feelings that the route for 280 was chosen as a path of least resistance since their relatively poor neighborhoods held less power than those living elsewhere. African Americans were especially adamant that what has been reported in other cities as a deliberate effort to undermine African American political gains also happened in Orange. Citing the demolition of key community centers such as the “colored” YMCA and YWCA, the Friendship House as well as the several black owned business, former residents believe the construction of 280 was the main cause for their community’s subsequent decline.
 
