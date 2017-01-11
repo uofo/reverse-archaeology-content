@@ -1,15 +1,15 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: 'Youth Led Mayoral Debate '
 headline: '"The youth vote can drastically affect a candidate''s chances"'
 themes:
   - corner-good-hope
 ---
-The 2016 Mayoral race was ugly. Opponents of incumbent Mayor Dwayne Warren, a Democrat, accused him of opportunism and nepotism; he in turn dismissed them as unqualified for office. As the rhetoric heated up, challenger Councilman Kerry Coley, a lifelong Orange resident and former Orange police sergeant, filed a defamation case against Warren, charging that the Mayor falsely accused him of disseminating pornography. Meanwhile, challenger Janice Morrell, a member of the Orange Zoning Board, denounced Warren for his failure to protect the health of Orange residents, alleging that the city’s war supply was contaminated by elevated levels of lead and the newly renovated YMCA on Main Street was poisoned by mold.   
+The 2016 Mayoral race was ugly. Opponents of incumbent Mayor Dwayne Warren, a Democrat, accused him of opportunism and nepotism; he in turn dismissed them as unqualified for office. As the rhetoric heated up, challenger Councilman Kerry Coley, a lifelong Orange resident and former Orange police sergeant, filed a defamation case against Warren, charging that the Mayor falsely accused him of disseminating pornography. Meanwhile, challenger Janice Morrell, a member of the Orange Zoning Board, denounced Warren for his failure to protect the health of Orange residents, alleging that the city’s water supply was contaminated by elevated levels of lead and the newly renovated YMCA on Main Street was poisoned by mold.   
 
-Within this divisive atmosphere, and in an effort to improve youth civic participation, RADICAL Orange organized a debate of the Mayoral candidates. “Many youth from middle school aged children to young adults in their twenties feel disillusioned by the structure in the City claiming that their voices and concerns do not matter to many officials or other older residents, “ explained RADICAL leaders. “We feel a mayoral debate would provide all of the candidates the opportunity to sell their platform to the youth eligible to vote and help us educate middle and high school students about the political process. As we can see with the current presidential election and with the 2008 and 2012 elections, the youth vote can drastically affect a candidate's chances. The candidates will address topics such as education, public safety, the economy, etc.”  
+Within this divisive atmosphere, and in an effort to improve youth civic participation, RADICAL: Orange organized a debate of the Mayoral candidates. “Many youth from middle school aged children to young adults in their twenties feel disillusioned by the structure in the City claiming that their voices and concerns do not matter to many officials or other older residents, “ explained RADICAL leaders. “We feel a mayoral debate would provide all of the candidates the opportunity to sell their platform to the youth eligible to vote and help us educate middle and high school students about the political process. As we can see with the current presidential election and with the 2008 and 2012 elections, the youth vote can drastically affect a candidate's chances. The candidates will address topics such as education, public safety, the economy, etc.”  
 
 On the night of the debate, the Unitarian Universalist Church hosted an overflow crowd. The following comments are excerpted from a lively and sometimes heated debate.  
 
@@ -32,7 +32,6 @@ On the night of the debate, the Unitarian Universalist Church hosted an overflow
 **Responses from the candidates:**  
 **Morrell:**  We need to stop and listen. We need to truly listen to what you have to say. Conversation is a two way street.   
 
-**Coley:** We should be routinely meeting with you. You are the folks were are developing for.  
+**Coley:** We should be routinely meeting with you. You are the folks we are developing for.  
 
-**Warren:** We have to go to where the people are. The people who need to hear us are not in this room.   
-
+**Warren:** We have to go to where the people are. The people who need to hear us are not in this room.
