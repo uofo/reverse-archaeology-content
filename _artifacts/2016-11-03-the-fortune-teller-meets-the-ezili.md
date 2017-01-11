@@ -8,6 +8,7 @@ headline: >-
   They appreciate being noticed.”
 themes:
   - crossroads
+  - nostalgia
 ---
 Although most of my clients are children at this elementary school fair, a few parents stop by my table to have their cards read.  
 
