@@ -2,7 +2,9 @@
 location_latitude: 40.766778
 location_longitude: -74.22416
 published: true
-title: Gordon Roberts and Butch Preston remember the Oakwood Avenue YMCA
+title: >-
+  Gordon Roberts, Butch Preston and Goldie Burbage remember the Oakwood Avenue
+  YMCA
 headline: >-
   “All the blacks were taught to swim, that was our thing, and you got to swim …
   It was a rite of passage.”
