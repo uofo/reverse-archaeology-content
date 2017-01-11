@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Cantal Came to Orange
 headline: 'Light the bridges and tunnels of Orange," said Michel Cantal-Dupart'
 image_url: images/Cantal at Orange Station.jpg
@@ -17,6 +17,5 @@ Renowned French urbanist, Michel Cantal-Dupart, came to Orange NJ in April 2009 
 
 
 Learn More:  
-
 
 [Watch this video to learn more about Cantal's visit to Orange.](https://www.youtube.com/watch?v=TjU5ESxFV10&t=3)
