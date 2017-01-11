@@ -25,4 +25,4 @@ Learn more:
 
 [Listen to the Part 2 of the interview with Debbie Gallo](https://soundcloud.com/user-773139664/debbie-gallo-interview-10-15-15-part-2)  
 
-[Read a summary of the interview with Debbia Gallo](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Debbie%20Gallo%2010-15-15.1%20%26%20Debbie%20Gallo%2010-15-2%2C%20b.%201953..pdf)
+[Read a summary of the interview with Debbie Gallo](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Debbie%20Gallo%2010-15-15.1%20%26%20Debbie%20Gallo%2010-15-2%2C%20b.%201953..pdf)
