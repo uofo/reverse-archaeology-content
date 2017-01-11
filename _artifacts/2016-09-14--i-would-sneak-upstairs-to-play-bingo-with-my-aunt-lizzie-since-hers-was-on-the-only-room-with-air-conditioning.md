@@ -3,7 +3,9 @@ location_latitude: 40.770662
 location_longitude: -74.236627
 published: true
 title: Don Dorflinger remembers his childhood on Mechanic Street
-image_caption: 'An image from '
+image_caption: >-
+  An image from Orange: A Postcard Guide to Our Past depicting Orange Main
+  Street
 headline: >-
   “I would sneak upstairs to play bingo with my Aunt Lizzie since hers was on
   the only room with air conditioning”
