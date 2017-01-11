@@ -16,4 +16,6 @@ In 2009, HANDS, Inc, got funding to carry out a digital storytelling project.  T
 
 [Listen to Molly Rose Kaufman & Khemani Gibson discuss the project on NPR](https://soundcloud.com/user-773139664/khemani-gibson-molly-rose-kaufman-discuss-murmur-on-here-and-now)
 
-[Listen to the [murmur] stories on SoundCloud](https://soundcloud.com/murmur-orange-nj)
+[Listen to the [murmur] stories on SoundCloud](https://soundcloud.com/murmur-orange-nj)  
+
+[See photos and illustrations from [murmur]](http://imgur.com/a/fpW6X)
