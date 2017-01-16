@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: Mike Malbrough
 title_affiliation: 'Artist, Illustrator, Reverse Archaeology Lead Artist & ORNG Ink Director'
 ---
