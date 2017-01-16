@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: ArtPlace America
 image_url: images/apl_support_logo_rgb.jpeg
 website_url: 'http://www.artplaceamerica.org/'
