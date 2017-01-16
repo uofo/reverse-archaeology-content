@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: University of Orange
 website_url: 'http://www.universityoforange.org/newsite/'
 image_url: images/Logo_Horizontal_Wide_300dpi.jpg
