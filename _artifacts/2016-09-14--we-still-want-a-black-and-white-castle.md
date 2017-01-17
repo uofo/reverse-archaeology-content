@@ -7,7 +7,7 @@ headline: “We still want a Black and White Castle!”
 image_caption: White Castle Logo
 name: Racial discrimination
 subthemes: 'Protest, Race, African American Community'
-image_url: ' reverse-archaeology-content/images/White Castle Logo.jpg'
+image_url: 'images/White Castle Logo.jpg'
 themes:
   - history-us-cities
   - corner-good-hope
