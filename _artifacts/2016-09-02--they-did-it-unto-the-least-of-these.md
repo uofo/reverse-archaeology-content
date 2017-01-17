@@ -7,7 +7,7 @@ image_caption: Gerrymandered school distict lines
 name: 'Ernest Thompson, Homeboy Came to Orange. '
 subthemes: 'Race, Education, Activism, Oakwood Avenue, CRG'
 headline: “We make no deals with children's futures”
-image_url: 'images/Gerrymander Map.jpg'
+image_url: images/Gerrymander Map.jpg
 themes:
   - history-us-cities
   - corner-good-hope
@@ -24,5 +24,3 @@ Learn more:
 [Read Homeboy Came to Orange](https://docuzilla.github.io/23-hazel-lemke/00b46f5isrnw-homeboy-came-to-orange-a-story-of-people-s-power.pdf)
 
 [Learn more about Ernest Thompson](http://www.universityoforange.org/newsite/homeboy-came-to-orange)
-
-
