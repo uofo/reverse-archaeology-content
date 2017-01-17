@@ -7,7 +7,7 @@ headline: '"The place looks like a graveyard now ... This development could save
 image_caption: 'Rhingold Beer advertisement in the Orange Transcript, October 10, 1963'
 name: Business
 subthemes: 'Industry, Rheingold Brewery, Jobs'
-image_url: ' reverse-archaeology-content/images/Rheingold Ad.jpg.png'
+image_url: 'images/Rheingold Ad.jpg.png'
 themes:
   - history-us-cities
   - industry-and-infrastructure
