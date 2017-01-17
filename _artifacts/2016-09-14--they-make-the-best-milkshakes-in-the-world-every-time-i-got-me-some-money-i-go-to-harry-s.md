@@ -4,7 +4,7 @@ location_longitude: -74.2249
 published: true
 title: Mildred Harris remembers the Oakwood Avenue community
 headline: Everyone had a place to go
-image_url: 'images/Parrow Street Storefront.jpg'
+image_url: images/Parrow Street Storefront.jpg
 image_caption: >-
   Out front of a store on Parrow Street in the 1950s (courtesy of Rebecca
   Doggett)
@@ -26,4 +26,3 @@ Learn More:
 [Listen to the full interview with Mildred Harris](https://soundcloud.com/user-773139664/mildred-hicks-harris-interview-11-9-2015)
 
 [Read a summary of the interview with Mildred Harris](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Mildred%20Hicks%20Harris%2011-9-2015%2C%20b.%201936.pdf)
-
