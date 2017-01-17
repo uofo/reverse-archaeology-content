@@ -10,7 +10,7 @@ image_caption: >-
   | NJ Advance Media for NJ.com)
 name: '280'
 subthemes: '280, displacement, urban renewal, African American community'
-image_url: 'images/280 Overpass.jpg'
+image_url: images/280 Overpass.jpg
 themes:
   - history-us-cities
   - industry-and-infrastructure
