@@ -11,7 +11,7 @@ image_caption: >-
   1979
 name: Racial Discrimination
 subthemes: 'Race, violence, protest'
-image_url: 'images/Darrel Walker protest.jpg'
+image_url: images/Darrel Walker protest.jpg
 themes:
   - history-us-cities
   - corner-good-hope
