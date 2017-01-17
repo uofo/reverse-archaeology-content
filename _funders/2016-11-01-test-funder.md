@@ -1,7 +1,7 @@
 ---
-published: true
+published: false
 name: Test Funder
-website_url: http://example.com
+website_url: 'http://example.com'
 image_url: >-
   http://www.universityoforange.org/newsite/wp-content/uploads/2014/12/cropped-UofO_Website_Banner1.jpg
 ---
