@@ -10,7 +10,11 @@
             {% if artifact.image_url %}"image_url": {{ artifact.image_url | strip | jsonify }},{% endif %}
             {% if artifact.image_thumbnail_url %}"image_thumbnail_url": {{ artifact.image_thumbnail_url | strip | jsonify }},{% endif %}
             {% if artifact.image_caption %}"image_caption": {{ artifact.image_caption | jsonify }},{% endif %}
-            "themes": {{ artifact.themes | jsonify }},
+            {% if artifact.themes %}
+                "themes": {{ artifact.themes | jsonify }},
+            {% else %}
+                "themes": [],
+            {% endif %}
             "headline": {{ artifact.headline | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
     ],
