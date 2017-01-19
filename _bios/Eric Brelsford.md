@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: Eric Brelsford
 title_affiliation: 'Software developer, Mapmaker, & Teacher (The New School)'
 image_url: images/EricBio.jpg
