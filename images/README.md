@@ -1,1 +1,1 @@
-Images for artifact sheets go here.
+Images go here.
