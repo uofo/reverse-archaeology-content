@@ -4,5 +4,5 @@ published: true
 caption: >-
   The Design Studio for Social Intervention, a longtime UofO ally, came to
   Orange for Jan Term 2016
-image_url: slideshowimages/images/About_SS_DS4SI1.JPG
+image_url: images/slideshowimages/About_SS_DS4SI1.JPG
 ---
