@@ -4,7 +4,7 @@ published: true
 title_affiliation: >-
   Anthropologist & Associate Professor of Anthropology, Montclair State
   University
-image_url: images/KateBio.jpg
+image_url: images/bios/KateBio.jpg
 ---
 Katherine McCaffrey is an associate professor of anthropology at Montclair State University.  Her research interests focus on social inequality, its consequences and resistance to it in Latin America and the United States. Her interest in social movements took her to Vieques, Puerto Rico where she examined a multi-decade long movement to evict the Navy from the island described in her book, Military Power and Popular Protest: the U.S. Navy in Vieques, Puerto Rico.  She is currently finishing a manuscript about the contested Navy-led environmental cleanup of Vieques.   
 
