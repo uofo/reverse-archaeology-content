@@ -7,7 +7,7 @@ headline: “We would go pick the chestnuts and we made necklaces with them”
 image_caption: Chestnut Tree on the Campus of St. Mary's Hospital
 name: Debbie Gallo
 subthemes: 'Childhood, Italian American community'
-image_url: images/Chestnut Tree-Debbie Gallo.docx.jpg
+image_url: images/artifacts/Chestnut Tree-Debbie Gallo.docx.jpg
 themes:
   - crossroads
   - lifecycle

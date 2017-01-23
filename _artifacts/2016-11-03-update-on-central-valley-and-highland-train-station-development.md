@@ -7,7 +7,7 @@ headline: '"Orange is on the verge of exploding"'
 themes:
   - history-us-cities
   - industry-and-infrastructure
-image_url: images/trainstationphoto1jpg-3e98de279e7dd988.jpg
+image_url: images/artifacts/trainstationphoto1jpg-3e98de279e7dd988.jpg
 image_caption: Highland Ave. Station on NJ Transit
 ---
 Mayor Dwayne D. Warren organized a meeting at the First United Tabernacle Church to discuss progress on the development of the Central Valley and Highland Train Station. Attendees gathered in the lilac sanctuary on the third floor where Bishop Lloyd L. Faulknor welcomed them.     

@@ -4,7 +4,7 @@ location_longitude: 0
 published: true
 title: Remembering the Haitian Earthquake
 headline: Field notes from Lanbi
-image_url: images/Martial.JPG
+image_url: images/artifacts/Martial.JPG
 themes:
   - crossroads
 subthemes: Lanbi

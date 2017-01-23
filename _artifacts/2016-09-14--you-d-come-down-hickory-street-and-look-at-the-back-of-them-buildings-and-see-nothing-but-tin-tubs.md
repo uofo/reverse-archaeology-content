@@ -11,7 +11,7 @@ image_caption: >-
   running water was the norm
   (http://falln-stock.deviantart.com/art/Vintage-Metal-Bathtub-3-33026513) 
 name: Mildred Harris
-image_url: images/Tin tub.jpg
+image_url: images/artifacts/Tin tub.jpg
 themes:
   - history-us-cities
   - lifecycle

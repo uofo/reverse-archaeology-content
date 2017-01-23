@@ -13,7 +13,7 @@ image_caption: >-
   receiving a trophy for the team's basketball victory. 
 name: 'Gordon Roberts, Butch Presto and Goldie Burbage'
 subthemes: 'Race, Childhood, Nostalgia'
-image_url: images/Gordon Roberts Oakwood Y.jpg
+image_url: images/artifacts/Gordon Roberts Oakwood Y.jpg
 themes:
   - history-us-cities
   - lifecycle

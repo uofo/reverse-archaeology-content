@@ -4,7 +4,7 @@ title: Ida Woody and Mr. Lee at Woody Home for Services
 video_url: 'https://soundcloud.com/murmur-orange-nj/woodys-ida-woody'
 location_latitude: 0
 location_longitude: 0
-image_url: images/Screen Shot 2014-06-10 at 10.39.03 PM.png
+image_url: images/artifacts/Screen Shot 2014-06-10 at 10.39.03 PM.png
 headline: 100 years and counting
 image_caption: 'Mary Colson Woody, founder of Woody Home for Services.'
 ---

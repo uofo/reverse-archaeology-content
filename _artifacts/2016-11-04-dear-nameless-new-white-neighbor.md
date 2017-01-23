@@ -8,7 +8,7 @@ headline: >-
   afraid of us?"
 themes:
   - history-us-cities
-image_url: images/KhemaniG.JPG
+image_url: images/artifacts/KhemaniG.JPG
 image_caption: >-
   Khemani Gibson is an Orange resident, activist, PHD candidate at NYU, and
   University of Orange Academic Dean

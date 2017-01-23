@@ -7,7 +7,7 @@ headline: '#disruptviolence'
 themes:
   - corner-good-hope
   - lifecycle
-image_url: images/UnityRallyOrangePark.jpg
+image_url: images/artifacts/UnityRallyOrangePark.jpg
 image_caption: >-
   Residents, parishioners, clergy and council people gather near Orange Park for
   the Unity Rally for Peace

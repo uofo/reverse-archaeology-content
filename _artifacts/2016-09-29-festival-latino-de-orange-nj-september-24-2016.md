@@ -3,7 +3,7 @@ location_latitude: 0
 location_longitude: 0
 published: true
 title: 'Festival Latino de Orange, NJ September 24, 2016'
-image_url: images/IMG_3309.JPG
+image_url: images/artifacts/IMG_3309.JPG
 image_caption: Expert hands make pupusas
 headline: >-
   The street pulsed with music and people, strollers and blue Salvador sports

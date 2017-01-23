@@ -4,7 +4,7 @@ location_longitude: 0
 published: true
 title: Paul Robeson on Olcott Street
 headline: Paul Robeson Gave a Concert in Orange
-image_url: images/Paul Robeson barbecue004.jpg
+image_url: images/artifacts/Paul Robeson barbecue004.jpg
 image_caption: Leaflet for the Homecoming Barbecue for Paul Robeson
 themes:
   - crossroads

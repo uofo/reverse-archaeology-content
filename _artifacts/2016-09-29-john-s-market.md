@@ -6,7 +6,7 @@ title: Paul Modugno remember the games they played in Orange
 headline: '“That’s called scotta la porta, ‘on your back’, that what it means” '
 name: Paul Modugno
 subthemes: 'Italian American community, Childhood, Games, Nostalgia'
-image_url: 'images/Paul and John Modugno in front of Johns Market.JPG '
+image_url: 'images/artifacts/Paul and John Modugno in front of Johns Market.JPG '
 image_caption: >-
   Paul and John Modugno in front of their family's market, which is still in
   business at 100 S. Essex Avenue

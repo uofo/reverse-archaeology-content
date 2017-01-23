@@ -11,7 +11,7 @@ headline: >-
   the only room with air conditioning”
 name: Don Dorflinger
 subthemes: 'Childhood, games, nostalgia'
-image_url: images/MainSt.jpg
+image_url: images/artifacts/MainSt.jpg
 themes:
   - crossroads
   - lifecycle

@@ -9,7 +9,7 @@ image_caption: >-
   stands across the street from the Orange Public Library.
 name: Fran McClain
 subthemes: 'Childhood, Entertainment, Oakwood Avenue'
-image_url: images/EmbassyTheater.jpg
+image_url: images/artifacts/EmbassyTheater.jpg
 themes:
   - history-us-cities
   - lifecycle

@@ -8,7 +8,7 @@ title: >-
 headline: “We were the young radicals”
 name: Becky Doggett and Morris Thomas
 subthemes: 'Race, politics, protest, African American community'
-image_url: 'images/Shorty''s Barbershop-NOLA-Cropped.jpg '
+image_url: 'images/artifacts/Shorty''s Barbershop-NOLA-Cropped.jpg '
 image_caption: >-
   Shorty's Barbershop on Hickory Street, campaign headquarters for NOLA and Ray
   Murphy's city council bid

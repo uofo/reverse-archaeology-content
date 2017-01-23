@@ -4,7 +4,7 @@ location_longitude: -74.229664
 published: true
 title: 'Karen Wells remarks on the architectural beauty of Main Street in Orange  '
 headline: Beehives on Main Street
-image_url: images/Beehive.jpg
+image_url: images/artifacts/Beehive.jpg
 image_caption: >-
   Beehive molding on the side exterior wall of the Hudson City Bank building on
   Main Street

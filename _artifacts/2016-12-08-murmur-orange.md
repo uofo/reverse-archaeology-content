@@ -4,7 +4,7 @@ location_longitude: 0
 published: true
 title: Murmur orange
 headline: '"This is [murmur]. What''s the code?"'
-image_url: images/Khemani and Friend.jpg
+image_url: images/artifacts/Khemani and Friend.jpg
 image_caption: >-
   Story collectors Khemani Gibson and Shannon Sorhaindo, holding green ears,
   while Shawn Micallef of [murmur] wraps a band around a telephone pole to

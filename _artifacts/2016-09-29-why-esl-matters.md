@@ -3,7 +3,7 @@ location_latitude: 0
 location_longitude: 0
 published: true
 title: Why ESL matters
-image_url: images/KateLanbi.JPG
+image_url: images/artifacts/KateLanbi.JPG
 image_caption: >-
   ESL Class is led by LANBI, a Haitian cultural organization that operates at
   the HUUB, First UU Church of Essex County

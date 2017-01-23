@@ -4,7 +4,7 @@ location_longitude: 0
 published: true
 title: Kate Tells Fortunes
 headline: 'Kate asks, "How do you see the world?"'
-image_url: images/RA Kate test.jpg
+image_url: images/artifacts/RA Kate test.jpg
 image_caption: Kate McCaffrey ready to read fortunes at the Oakwood Avenue Community School.
 themes:
   - corner-good-hope

@@ -9,7 +9,7 @@ headline: >-
 themes:
   - corner-good-hope
   - lifecycle
-image_url: images/artwork.jpg
+image_url: images/artifacts/artwork.jpg
 image_caption: Student artwork from a show at the Orange Public Library
 ---
 On Tuesday, June 14, RADICAL Orange organized a community forum in conjunction with the Considering Harm exhibit sponsored by Valley Arts. Organizers asked, “How do we take our frustration and love for our city and get active in making positive changes in our community? 

@@ -4,7 +4,7 @@ location_longitude: 0
 published: true
 title: Cantal Came to Orange
 headline: 'Light the bridges and tunnels of Orange," said Michel Cantal-Dupart'
-image_url: images/Cantal at Orange Station.jpg
+image_url: images/artifacts/Cantal at Orange Station.jpg
 image_caption: >-
   Michel Cantal-Dupart is gesturing at the sad state of the parking lot by the
   Orange Train Station, as Robert Fullilove translates from French for Patrick

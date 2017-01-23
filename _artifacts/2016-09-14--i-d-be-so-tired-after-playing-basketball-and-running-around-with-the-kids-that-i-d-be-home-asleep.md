@@ -14,7 +14,7 @@ image_caption: >-
   Monte Irvin" http://www.state.nj.us/hangout_nj/200605_monte_irvin_p1.html 
 name: Gordon Roberts
 subthemes: 'Childhood, athletics, race, Oakwood Avenue, YMCA'
-image_url: images/Orange Triangles.jpg
+image_url: images/artifacts/Orange Triangles.jpg
 themes:
   - corner-good-hope
   - lifecycle

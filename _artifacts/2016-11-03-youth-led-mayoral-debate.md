@@ -7,7 +7,7 @@ headline: '"The youth vote can drastically affect a candidate''s chances"'
 themes:
   - corner-good-hope
   - lifecycle
-image_url: images/JSO_YLMayoral_IG_1.jpg
+image_url: images/artifacts/JSO_YLMayoral_IG_1.jpg
 image_caption: >-
   RADICAL: Orange - Responsible Activists Dedicated Intellectuals Cultivating
   Alternative Leadership
