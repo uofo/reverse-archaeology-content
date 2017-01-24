@@ -23,6 +23,8 @@ Bending, refracting, lighting the way, traveling backward, sideways and forward 
 
 To record and share the history of Orange is an important dimension of University of Orange’s work, working hand-in-hand with our community courses and our brand of urbanism. _Learn More about UofO._ We record and share the history of Orange not solely as a memorial to the past, but as an active tool in rewriting the story of Orange. Through this work, we’ve seen how exploring what has been can expand the realm of what can be.  
 
+Through projects like [murmur], Our Orange, and now Hidden Treasure of Our Orange we’ve seen how sharing stories of Orange, in the places they happen can explode apart the narrative artifacts left behind by forces of Serial Forced Displacement. All of a sudden, the empty building or the scrap yard gives way to the image of a bustling factory or streets filled with people on horseback. These alternative realities offer a needed disruption, clearing the way for space to imagine. The intertwined stories, create a new narrative with a chorus of storytellers and an infinity of storylines.
+
 **[murmur]**  
 
 Are the places that matter most to you part of the official narrative of your city? Chances are they are not... But projects like [murmur] help to make places matter for everyone. [murmur] was first established in Toronto’s Kensington Market in 2003.  This oral history project came to our precious city from a group of eight Orange High School students in the spring of 2009 who recorded people’s stories about places in their town.
@@ -43,4 +45,4 @@ _- intro text from Jenny & Chennel_
 
 **Hidden Treasures**
 
-Through projects like [murmur], Our Orange, and now Hidden Treasure of Our Orange we’ve seen how sharing stories of Orange, in the places they happen can explode apart the narrative artifacts left behind by forces of Serial Forced Displacement. All of a sudden, the empty building or the scrap yard gives way to the image of a bustling factory or streets filled with people on horseback. These alternative realities offer a needed disruption, clearing the way for space to imagine. The intertwined stories, create a new narrative with a chorus of storytellers and an infinity of storylines.
+
