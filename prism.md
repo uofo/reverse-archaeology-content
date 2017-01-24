@@ -30,15 +30,17 @@ Megeenah Dacy
 
 _- Quotes from Khemani, By the People, UA and Megeenah_  
 
-**The History of American Cities you can learn in Orange NJ**  
+**Ironworks**
 
-**Hidden Treasures** (intro)  
+**ORNG Ink**
+
+**The History of American Cities you can learn in Orange NJ, a walking tour**  
 
 **Our Orange**  
 _- intro text from Jenny & Chennel_  
 
 **Reverse Archaeology**  
 
-**Hidden Treasures** (continued)  
+**Hidden Treasures**
 
 Through projects like [murmur], Our Orange, and now Hidden Treasure of Our Orange we’ve seen how sharing stories of Orange, in the places they happen can explode apart the narrative artifacts left behind by forces of Serial Forced Displacement. All of a sudden, the empty building or the scrap yard gives way to the image of a bustling factory or streets filled with people on horseback. These alternative realities offer a needed disruption, clearing the way for space to imagine. The intertwined stories, create a new narrative with a chorus of storytellers and an infinity of storylines.
