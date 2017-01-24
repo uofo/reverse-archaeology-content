@@ -21,7 +21,7 @@ We must Bridge the Chasm, but how?
 
 Bending, refracting, lighting the way, traveling backward, sideways and forward in time.  
 
-To record and share the history of Orange is an important dimension of University of Orange’s work, working hand-in-hand with our community courses and our brand of urbanism. (Learn More about UofO Link to Website) We record and share the history of Orange not solely as a memorial to the past, but as an active tool in rewriting the story of Orange. Through this work, we’ve seen how exploring what has been can expand the realm of what can be.  
+To record and share the history of Orange is an important dimension of University of Orange’s work, working hand-in-hand with our community courses and our brand of urbanism. _Learn More about UofO._ We record and share the history of Orange not solely as a memorial to the past, but as an active tool in rewriting the story of Orange. Through this work, we’ve seen how exploring what has been can expand the realm of what can be.  
 
 **[murmur]**  
 
