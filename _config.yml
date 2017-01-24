@@ -120,10 +120,10 @@ prose:
             - name: "Prism"
               value: "prism"
     _chasmfigures:
-      - name: "title"
+      - name: "name"
         field:
           element: "text"
-          label: "Title"
+          label: "Name"
       - name: "figure_number"
         field:
           element: "number"

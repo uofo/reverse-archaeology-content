@@ -35,7 +35,7 @@
     ],
     "chasmfigures": [
         {% for figure in site.chasmfigures %}{
-            "title": {{ figure.title | jsonify }},
+            "name": {{ figure.name | jsonify }},
             "image_url": {{ figure.image_url | jsonify }},
             "content": {{ figure.content | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
