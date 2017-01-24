@@ -5,7 +5,7 @@ published: true
 title: >-
   Protests Erupt in Orange after 17-year old Darrell Walker is shot by Orange
   Police Officers in 1979
-headline: '"I’ll see you at the next one …"'
+headline: '"I’ll see you at the next one"'
 image_caption: >-
   Protestors at City Hall following the police shooting of Darrell Walker in
   1979
