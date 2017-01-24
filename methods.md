@@ -15,7 +15,7 @@ Our multidisciplinary team deploys a variety of methods to record and share stor
 To learn more about the analysis that guides our work visit the _The Chasm is Real_ portion of the site.
 
 
-To read more about our work visit _The Prism is Magic_ page.
+To read more about our activities visit _The Prism is Magic_ page.
 
 
 To find out more about University of Orange’s work visit [our website.](http://www.universityoforange.org/newsite/) Or [sign up for our newsletter.](http://universityoforange.us10.list-manage.com/subscribe?u=80b878a13ce943d415039dccd&id=5827de607a)
