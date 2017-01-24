@@ -17,6 +17,8 @@ collections:
     output: true
   blurbs:
     output: true
+  chasmfigures:
+    output: true
   funders:
     output: true
   partners:
@@ -117,6 +119,20 @@ prose:
               value: "chasm"
             - name: "Prism"
               value: "prism"
+    _chasmfigures:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "figure_number"
+        field:
+          element: "number"
+          label: "Figure Number"
+          value: 1
+      - name: "image_url"
+        field:
+          element: "text"
+          label: "Image URL"
     _funders:
       - name: "name"
         field:

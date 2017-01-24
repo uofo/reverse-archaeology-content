@@ -33,6 +33,13 @@
             "content": {{ blurb.content | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
     ],
+    "chasmfigures": [
+        {% for figure in site.chasmfigures %}{
+            "title": {{ figure.title | jsonify }},
+            "image_url": {{ figure.image_url | jsonify }},
+            "content": {{ figure.content | jsonify }}
+        }{% unless forloop.last %},{% endunless %}{% endfor %}
+    ],
     "funders": [
         {% for funder in site.funders %}{
             "name": {{ funder.name | jsonify }},
