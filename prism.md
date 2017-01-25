@@ -32,10 +32,15 @@ _Are the places that matter most to you part of the official narrative of your c
 - Megeenah Dacy  
 
 **Ironworks**
+Young artists from Orange and the surrounding area transformed a former industrial building into a collective arts studio and gallery.  Ironworks was home to painters, fashion designers, filmmakers, musicians, hip hop artists, muralists, photographers, novelists, jouranlists and more.  The walls, floors and layout were always changing, alive with the creative process.  Everyone who visited knew it was like nowhere else they have ever been.  They will never forget.
 
 **ORNG Ink**
+ORNG Ink is an arts collective started by high school students in 2008.  They used to operate out of Ironworks and now can be found running creative enterprises and radical organizations all over town. In 2013 Ray Sykes, the greatest mc of all time, described ORNG Ink/Ironworks like this: We have people here that do everything. From people that paint on rocks to people that make movies.  Being here has helped my music because I get to see every walk of life.  I make music out of the stories around me and there are always interesting characters here.  Working with the younger kids is like working with myself how I used to be.  It bridges the gap.
+
 
 **The History of American Cities you can learn in Orange NJ, a walking tour**  
+Some say the city of Orange, NJ is the most historic city in the United States.  University of Orange tours take visitors through time and space featuring historic sites, tales of local legends, delicious treats and a deep appreciation for the city then and now.
+
 
 **Our Orange**  
 _We are happy to present the book we were working on, called ‘Our Orange: The Discovery of Our Past.’  Being a part of Orange, most people would leave any chance they get. They figure there’s not much of anything positive here, and that there really is no future or potential here. When we started this book, the more tours we took and the more we actually dug into the rich history, we realized that what we thought to be nothing, was actually a big deal. We realized that we are actually part of something that was a lot bigger, and that it was something that we could be glad to call home. In this book we share our insights into the Orange community and what it’s really about._   
@@ -43,6 +48,8 @@ _We are happy to present the book we were working on, called ‘Our Orange: The 
 - Chennel Mahabir-Smith 
 
 **Reverse Archaeology**  
+Usually, archaeologists dig into the ground to uncover the stories of the past. In Orange, we already have a hole in the ground where the highway runs through town. In the 1960s Interstate 280 was built for commuters, bisecting the small industrial city of Orange and undermining the connectivity of the whole.  Led by Chistopher Matthews, Katherine McCaffery and Mike Malbrough, the team investigated what was there before and sought out what remains. Using oral history, ethnography, artist interventions and community engagement to understand the stories of I-280, revealed how communities thrived before its construction and documented what it will take for current residents to “plan to stay.
+
 
 **Hidden Treasures**
 Hidden Treasures of Our Orange is a multidimensional storytelling project, based in Orange, NJ. Sharing stories allows us to see how full the city is, recognize each other’s contributions and creates space to imagine the future.
