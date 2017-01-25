@@ -18,11 +18,3 @@ We first heard this at a 1993 Paris conference on AIDS, substance abuse, and hom
 We also have to take a few steps back and take an even longer view of the fracture we see in not only our city, but all cities. In the course of our fieldwork, we learned that urban fracture has been caused by a series of policies that have “sorted” American cities by race and class.  We were able to trace the effects of segregation, redlining, urban renewal, deindustrialization, mass incarceration, HOPE VI, the foreclosure crisis, and gentrification. This legacy of displacement is called “Serial Forced Displacement.”
 
 [Here you can watch a short film we created, explaining Serial Forced Displacement.](https://vimeo.com/192820382)
-
-
-These are some of the series of policies that are part of Serial Forced Displacement:
-
-Serial forced displacement is a particularly grave threat to health because it repeatedly attacks the very foundation of human health: the stable neighborhood that has intergenerational knowledge of how to survive in a given place.  Destruction of neighborhoods traumatizes people and destroys wealth of all kinds, including people’s economic, political, social, and cultural capital. Serial forced displacement is unjust and creates inequity.
-
-**The Chasm is Real. Help Bridge the Chasm.** 
-_(LINK TO PRISM PAGE)_
