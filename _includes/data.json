@@ -33,13 +33,14 @@
             "content": {{ blurb.content | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
     ],
-    "chasmfigures": [
-        {% for figure in site.chasmfigures %}{
-            "figure_number": {{ figure.figure_number | jsonify }},
-            "name": {{ figure.name | jsonify }},
-            "image_caption": {{ figure.image_caption | jsonify }},
-            "image_url": {{ figure.image_url | jsonify }},
-            "content": {{ figure.content | jsonify }}
+    "chasmpolicies": [
+        {% for policy in site.chasmpolicies %}{
+            "figure_number": {{ policy.figure_number | jsonify }},
+            "name": {{ policy.name | jsonify }},
+            "image_caption": {{ policy.image_caption | jsonify }},
+            "image_url": {{ policy.image_url | jsonify }},
+            "order": {{ policy.order | jsonify }},
+            "content": {{ policy.content | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
     ],
     "funders": [

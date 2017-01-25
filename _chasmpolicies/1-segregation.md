@@ -1,6 +1,7 @@
 ---
 figure_number: 1
-image_url: images/chasmfigures/Segregation_2.jpg
+order: 1
+image_url: images/chasmpolicies/Segregation_2.jpg
 image_caption: The fence in Orange Park only runs along the sides of the park that were traditionally black neighborhoods
 published: true
 name: Segregation
