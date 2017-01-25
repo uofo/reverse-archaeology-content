@@ -27,10 +27,9 @@ Through projects like [murmur], Our Orange, and now Hidden Treasure of Our Orang
 
 **[murmur]**  
 
-_Are the places that matter most to you part of the official narrative of your city? Chances are they are not... But projects like [murmur] help to make places matter for everyone. [murmur] was first established in Toronto’s Kensington Market in 2003.  This oral history project came to our precious city from a group of eight Orange High School students in the spring of 2009 who recorded people’s stories about places in their town._
-- Megeenah Dacy  
+_Are the places that matter most to you part of the official narrative of your city? Chances are they are not... But projects like [murmur] help to make places matter for everyone. [murmur] was first established in Toronto’s Kensington Market in 2003.  This oral history project came to our precious city from a group of eight Orange High School students in the spring of 2009 who recorded people’s stories about places in their town._  
 
-_- Quotes from Khemani, By the People, UA and Megeenah_  
+- Megeenah Dacy  
 
 **Ironworks**
 
@@ -39,7 +38,8 @@ _- Quotes from Khemani, By the People, UA and Megeenah_
 **The History of American Cities you can learn in Orange NJ, a walking tour**  
 
 **Our Orange**  
-_We are happy to present the book we were working on, called ‘Our Orange: The Discovery of Our Past.’  Being a part of Orange, most people would leave any chance they get. They figure there’s not much of anything positive here, and that there really is no future or potential here. When we started this book, the more tours we took and the more we actually dug into the rich history, we realized that what we thought to be nothing, was actually a big deal. We realized that we are actually part of something that was a lot bigger, and that it was something that we could be glad to call home. In this book we share our insights into the Orange community and what it’s really about._ 
+_We are happy to present the book we were working on, called ‘Our Orange: The Discovery of Our Past.’  Being a part of Orange, most people would leave any chance they get. They figure there’s not much of anything positive here, and that there really is no future or potential here. When we started this book, the more tours we took and the more we actually dug into the rich history, we realized that what we thought to be nothing, was actually a big deal. We realized that we are actually part of something that was a lot bigger, and that it was something that we could be glad to call home. In this book we share our insights into the Orange community and what it’s really about._   
+
 - Chennel Mahabir-Smith 
 
 **Reverse Archaeology**  
