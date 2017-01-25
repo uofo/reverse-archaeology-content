@@ -22,11 +22,6 @@ We also have to take a few steps back and take an even longer view of the fractu
 
 These are some of the series of policies that are part of Serial Forced Displacement:
 
-**Segregation**  
-Segregation limited the spaces black citizens could occupy and the resources to which they had
-Access. The fence in Orange Park only runs along the sides of the park that were traditionally black neighborhoods.
-![The fence in Orange Park only runs along the sides of the park that were traditionally black neighborhoods]({{site.baseurl}}/images/Segregation_2.jpg)  
-
 
 **Redlining**  
 Beginning in 1935, the Federal Home Owners Loan Corporation sent people out to rate neighborhoods to guide investment. The ratings system gave low grades for areas with old buildings and high percentages of foreign born, Jewish or Negro residents, all considered “undesirable racial elements.” Most neighborhoods in Orange received C or D ratings becasue of the city's demographics and aging infrastructure.

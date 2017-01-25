@@ -133,6 +133,10 @@ prose:
         field:
           element: "text"
           label: "Image URL"
+      - name: "image_caption"
+        field:
+          element: "text"
+          label: "Image Caption"
     _funders:
       - name: "name"
         field:
