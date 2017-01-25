@@ -2,7 +2,9 @@
 figure_number: 2
 order: 2
 image_url: images/chasmpolicies/redlining.jpg
-image_caption: This is the redlining map from Orange in the 1930s - most neighborhoods in Orange received C or D ratings
+image_caption: >-
+  This is the redlining map from Orange in the 1930s - most neighborhoods in
+  Orange received C or D ratings
 published: true
 name: Redlining
 ---
