@@ -59,6 +59,15 @@
             "content": {{ page.content | markdownify | replace: 'img src="/', abs_img_base | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
     ],
+    "prismprojects": [
+        {% for project in site.prismprojects %}{
+            "name": {{ project.name | jsonify }},
+            "image_caption": {{ project.image_caption | jsonify }},
+            "image_url": {{ project.image_url | jsonify }},
+            "order": {{ project.order | jsonify }},
+            "content": {{ project.content | jsonify }}
+        }{% unless forloop.last %},{% endunless %}{% endfor %}
+    ],
     "slideshowimages": [
         {% for slideshowimage in site.slideshowimages %}{
             "page": {{ slideshowimage.page | jsonify }},

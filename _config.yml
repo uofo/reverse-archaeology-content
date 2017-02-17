@@ -23,6 +23,8 @@ collections:
     output: true
   partners:
     output: true
+  prismprojects:
+    output: true
   slideshowimages:
     output: true
 
@@ -168,6 +170,24 @@ prose:
         field:
           element: "text"
           label: "Website"
+    _prismprojects:
+      - name: "order"
+        field:
+          element: "number"
+          label: "Order"
+          value: 1
+      - name: "name"
+        field:
+          element: "text"
+          label: "Name"
+      - name: "image_url"
+        field:
+          element: "text"
+          label: "Image URL"
+      - name: "image_caption"
+        field:
+          element: "text"
+          label: "Image Caption"
     _slideshowimages:
       - name: "caption"
         field:
