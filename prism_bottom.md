@@ -1,23 +1,10 @@
 ---
 layout: page
 level: 1
-slug: prism
-title: Prism
+slug: prism_bottom
+title: Prism (bottom)
 published: true
 ---
-
-“We look not at the things which are what you would call seen, but at the things which are not seen. For the things which are seen are temporal. But the things which are not seen are eternal.” 
-― Madeleine L'Engle, A Wrinkle in Time  
-
-**The Chasm is Real.**  
-
-The legacy of Serial Forced Displacement (see [the Chasm](/chasm)) has fractured the physical spaces of US cities, but has also critically altered the narratives of the neighborhoods it affects.   
-
-We’ve seen this tale of disruption overwhelm the stories of US cities and undermine the way people feel about their homes, disrupting their investment in the cities they live. This effect makes the work of reweaving the social fabric both more difficult and more necessary.  
-
-We must Bridge the Chasm, but how?  
-
-**With light. With magic. With a prism.**  
 
 Bending, refracting, lighting the way, traveling backward, sideways and forward in time.  
 
