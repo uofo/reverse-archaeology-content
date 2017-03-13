@@ -24,4 +24,4 @@ Learn more:
 
 Read a summary of the interview with Joe Thomasberger, Rebecca Doggett, and  Karen Eonislawski
 
-Pictures of North Orange Baptist Church??
+
