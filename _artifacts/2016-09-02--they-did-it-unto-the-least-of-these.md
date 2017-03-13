@@ -21,6 +21,7 @@ Ernest Thompson and his daughter, Mindy Thompson Fullilove, tell the story of th
 
 Learn more:  
 
-[Read Homeboy Came to Orange](https://docuzilla.github.io/23-hazel-lemke/00b46f5isrnw-homeboy-came-to-orange-a-story-of-people-s-power.pdf)
+[Read Homeboy Came to Orange](http://bookstore.iuniverse.com/Products/SKU-000068762/Homeboy-Came-to-Orange.aspx)
 
 [Learn more about Ernest Thompson](http://www.universityoforange.org/newsite/homeboy-came-to-orange)
+
