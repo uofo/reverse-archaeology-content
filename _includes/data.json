@@ -54,7 +54,7 @@
     "pages": [
         {% for page in site.html_pages %}{
             "title": {{ page.title | jsonify }},
-            "level": {{ page.level }},
+            {% if page.level %}"level": {{ page.level }},{% endif %}
             "slug": {{ page.slug | jsonify }},
             "content": {{ page.content | markdownify | replace: 'img src="/', abs_img_base | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
