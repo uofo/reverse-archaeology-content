@@ -10,7 +10,7 @@ themes:
 image_url: images/artifacts/trainstationphoto1jpg-3e98de279e7dd988.jpg
 image_caption: Highland Ave. Station on NJ Transit
 ---
-Mayor Dwayne D. Warren organized a meeting at the First United Tabernacle Church to discuss progress on the development of the Central Valley and Highland Train Station. Attendees gathered in the lilac sanctuary on the third floor where Bishop Lloyd L. Faulknor welcomed them.     
+Mayor Dwayne D. Warren organized a meeting at the First United Tabernacle International Ministries Inc. to discuss progress on the development of the Central Valley and Highland Train Station. Attendees gathered in the lilac sanctuary on the third floor where Bishop Lloyd L. Faulknor welcomed them.     
 
 Members of the newly formed Historic Preservation Board, and its head, self-described rabble-rouser, Karen Wells, dominated the meeting. Wells challenged Marty Mayes throughout his presentation.  “Why is Orange paying for the restoration of the Highland train station—why not New Jersey transit?” She expressed concern for ADA compliance, particularly on the outside of the station, which is elevated and accessible only by three flights of stairs. She’s been fighting for 27 years for Highland Station. One issue is that NJ Transit provides service based on ridership, which is counted by monthly passes. Some Orange residents, however, buy monthly passes to Mountain Station in neighboring South Orange. Real estate development and train ridership are mutually reinforcing.     
 
