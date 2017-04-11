@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Serrani's Bakery
 ---
 [This story was collected as a part of the Orange [murmur] project. You can listen to the story here...](https://soundcloud.com/murmur-orange-nj/serranis-bakery-jean)
