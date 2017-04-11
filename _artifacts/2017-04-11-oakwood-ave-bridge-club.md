@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Oakwood Ave Bridge Club
 headline: kids playing their grandmother's game?!
 image_url: images/artifacts/BridgeClub_1.jpg
@@ -16,4 +16,6 @@ Learn More:
 
 
 [Visit the oakwood Ave school web](http://www.orange.k12.nj.us/oakwood)
+
+
 
