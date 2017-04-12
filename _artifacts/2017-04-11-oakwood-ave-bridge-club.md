@@ -15,7 +15,7 @@ The award-winning Oakwood Ave. Bridge Club meets Wednesday mornings at 7:30am. T
 Learn More:  
 
 
-[Visit the oakwood Ave school web](http://www.orange.k12.nj.us/oakwood)
+[Visit the Oakwood Ave.Community School website](http://www.orange.k12.nj.us/oakwood)
 
 
 
