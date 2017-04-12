@@ -10,6 +10,7 @@ image_caption: >-
 themes:
   - crossroads
   - industry-and-infrastructure
+headline: Why ESL Matters
 ---
 To succeed in the U.S. economy today, new immigrants must master English. In the past, when factory jobs were more abundant, it was possible to get a good job with rudimentary English. Today’s service oriented workforce is not so accommodating. New immigrants are pressed by the need to pay rent and bills and provide for their families (both in the U.S. and back home) while they are still getting a footing in a new, foreign place. They need English to have a chance at staying afloat.
 
