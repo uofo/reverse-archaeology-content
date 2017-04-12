@@ -26,4 +26,9 @@ Are there any programs or community initiatives that have kept you off the stree
 
 **Why are young people on this panel?**  
 
-“We are the future! We have all the time in the world. We have a perspective on how crime affects us. Its’ not okay, we shouldn’t accept and adjust to this. We need to speak up—we’re not okay. We want to push forward.”
+“We are the future! We have all the time in the world. We have a perspective on how crime affects us. Its’ not okay, we shouldn’t accept and adjust to this. We need to speak up—we’re not okay. We want to push forward.”  
+
+_This was a second in a series of community forums about safety and justice in Orange. We listened to a range of young people discuss their take on youth and violence in our community. Our youth panelists provided their opinions and suggestions for how city leaders could better engage youth so that we can have an impact on crime within our city. This forum was hosted by [RADICAL: Orange](www.facebook.com/radicalorangenj), an organization of Orange millennaials dedicated to creating creative change in their city._
+
+Learn More:  
+[Watch this live stream!](https://vimeo.com/148093834#at=462)
