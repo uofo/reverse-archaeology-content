@@ -10,5 +10,8 @@ Founded in 1948, Phil Serrani's Sanitary Bakery has been a staple in the Orange 
 
 Learn More: 
 
-[Collected as part of [murmur] 2009](http://hiddentreasuresoforange.org/artifacts/murmur-orange)  
+[See behind the scenes with this video by Michael Paras Photography](Michael Paras Photography)  
 
+[Hank Zona of The Grapes Unwrapped talks with Jeanne Serrani](https://vimeo.com/192053735)  
+
+[Collected as part of [murmur] 2009](http://hiddentreasuresoforange.org/artifacts/murmur-orange)
