@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: Other Contributors
 image_url: images/bios/About_Contrib_1.jpg
 ---
