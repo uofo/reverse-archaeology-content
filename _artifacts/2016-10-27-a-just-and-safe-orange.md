@@ -2,7 +2,7 @@
 location_latitude: 0
 location_longitude: 0
 published: true
-title: A Just and Safe Orange
+title: 'Just and Safe Orange: a youth forum'
 headline: Field notes from a youth-led community forum on safety
 themes:
   - corner-good-hope
