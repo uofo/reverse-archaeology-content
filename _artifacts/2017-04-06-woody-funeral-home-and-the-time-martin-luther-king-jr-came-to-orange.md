@@ -4,12 +4,12 @@ location_longitude: 0
 published: false
 title: Woody Funeral Home and the time Martin Luther King Jr. came to Orange
 ---
-Ida Woody on her family’s 100-year-old business and the time Martin Luther King Jr. came to Orange, NJ  
+[Listen to this story about the time Dr. Martin Luther King came to Orange](https://soundcloud.com/murmur-orange-nj/woodys-ida-woody)  
 
-[Collected as part of [Murmur] in 2009](http://hiddentreasuresoforange.org/artifacts/murmur-orange)  
+Ida Woody on her family’s 100-year-old business and the time Martin Luther King Jr. came to Orange, NJ    
 
 Learn More:  
 
-[Hear the story!](https://soundcloud.com/murmur-orange-nj/woodys-ida-woody)  
+[This story was collected as part of [Murmur] in 2009](http://hiddentreasuresoforange.org/artifacts/murmur-orange)  
 
-[Learn more about the history of Woody Home for Services!](http://www.woodyhomeforservices.com/about-us/our-history)
+[Learn more about the history of Woody Home for Services](http://www.woodyhomeforservices.com/about-us/our-history)
