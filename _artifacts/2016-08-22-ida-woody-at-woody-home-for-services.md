@@ -7,6 +7,8 @@ location_longitude: 0
 image_url: images/artifacts/Screen Shot 2014-06-10 at 10.39.03 PM.png
 headline: 100 years and counting
 image_caption: 'Mary Colson Woody, founder of Woody Home for Services.'
+themes:
+  - lifecycle
 ---
 
 The Woody funeral business in Orange started in 1913 when Mary Colson Woody opened the Woody Funeral Home in her home at 163 Central Place. She was the first woman funeral director licensed by the State of New Jersey. Mary Colson Woody was born in Petersburg, Virginia in 1874. She attended Petersburg public schools and studied nursing at the Dixie School of Nursing in Hampton, Virginia. While working in Danville, Virginia she met and later married David D. Woody in 1902. 
