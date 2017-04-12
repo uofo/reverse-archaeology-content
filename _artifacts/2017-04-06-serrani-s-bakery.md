@@ -3,6 +3,12 @@ location_latitude: 0
 location_longitude: 0
 published: true
 title: Serrani's Bakery
+headline: 'Breaking Bread: Serrani''s Sanitary Bakery'
+image_url: images/artifacts/Serranis.JPG
+image_caption: Serrani's offers treats from bread to cookies & cakes
+themes:
+  - crossroads
+  - industry-and-infrastructure
 ---
 [This story was collected as a part of the Orange [murmur] project. You can listen to the story here...](https://soundcloud.com/murmur-orange-nj/serranis-bakery-jean)
 
