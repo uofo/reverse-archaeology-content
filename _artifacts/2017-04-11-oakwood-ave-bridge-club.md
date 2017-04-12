@@ -5,7 +5,9 @@ published: true
 title: Oakwood Ave Bridge Club
 headline: kids playing their grandmother's game?!
 image_url: images/artifacts/BridgeClub_1.jpg
-image_caption: Students practice bridge early every Wednesday
+image_caption: >-
+  Students at Oakwood Ave. Community School practice bridge early every
+  Wednesday
 themes:
   - lifecycle
   - nostalgia
