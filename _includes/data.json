@@ -24,6 +24,7 @@
             "slug": {{ bio.slug | jsonify }},
             "title_affiliation": {{ bio.title_affiliation | jsonify }},
             "image_url": {{ bio.image_url | jsonify }},
+            "order": {% if bio.order %}{{ bio.order | jsonify }}{% else %}1{% endif %},
             "content": {{ bio.content | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
     ],
