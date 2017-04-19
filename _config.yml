@@ -107,6 +107,12 @@ prose:
         field:
           element: "text"
           label: "Image URL"
+      - name: "order"
+        field:
+          element: "number"
+          help: "Order this bio should show up in. Lower numbers come first, higher numbers come last."
+          label: "Order"
+          value: 1
     _blurbs:
       - name: "page"
         field:
