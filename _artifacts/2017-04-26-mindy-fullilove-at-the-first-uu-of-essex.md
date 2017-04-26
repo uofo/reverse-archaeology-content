@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Mindy Fullilove at the First UU of Essex
 headline: Building Bethlehem
 image_url: images/artifacts/FirstUU_Organ_1.jpg
