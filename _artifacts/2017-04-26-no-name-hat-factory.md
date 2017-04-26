@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: No Name Hat Factory
 headline: A beautiful street & a pair of famous hat makers
 image_url: images/artifacts/HatFactory_1.jpg
