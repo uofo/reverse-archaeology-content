@@ -3,6 +3,13 @@ location_latitude: 0
 location_longitude: 0
 published: false
 title: No Name Hat Factory
+headline: A beautiful street & a pair of famous hat makers
+image_url: images/artifacts/HatFactory_1.jpg
+image_caption: The Berg Hat Factory
+name: No Name Hat Factory
+themes:
+  - lifecycle
+  - industry-and-infrastructure
 ---
 Orange, NJ was once the hat-making capital of the United States. The corner of Freeman and South Jefferson Streets was where the famous Stetson Brothers had their first factory.  [As as student at the Orange Scholars’ Academy Schundnax Emmanuel told us what he loves about the former hat district. Watch here.](https://vimeo.com/117971496)  
 
