@@ -3,7 +3,7 @@ location_latitude: 0
 location_longitude: 0
 published: true
 title: No Name Hat Factory
-headline: A beautiful street & a pair of famous hat makers
+headline: Hat City then and now
 image_url: images/artifacts/HatFactory_1.jpg
 image_caption: The Berg Hat Factory
 name: No Name Hat Factory
