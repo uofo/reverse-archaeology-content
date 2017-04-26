@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Joshua Thompson on Ben Jones Street
 headline: Rally for Representation
 image_url: images/artifacts/BenJones_1.jpg
