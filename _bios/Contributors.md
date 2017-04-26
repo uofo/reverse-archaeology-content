@@ -6,5 +6,8 @@ order: 500
 ---
 We thank all of our Hidden Treasures contributors, including:  
 
+Patricia Rogers
 Charlie Wirene  
-& Rachel Bland
+Rachel Bland
+Terrance Brooks
+& the 2013-2014 Humanities Core, Orange Scholars' Academy
