@@ -4,8 +4,8 @@ location_longitude: 0
 published: true
 title: murmur ghost story
 headline: Paranormal Activity
-image_url: images/artifacts/MurmurMap_1.jp2
-image_caption: 'a map of [murmur] sites created by artist Mike Malbrough'
+image_url: images/artifacts/Paranormal_1.jpg
+image_caption: 'a section of the [murmur] map created by artist Mike Malbrough'
 name: murmur ghost story
 themes:
   - lifecycle
