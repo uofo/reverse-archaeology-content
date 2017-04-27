@@ -10,6 +10,7 @@ name: murmur ghost story
 themes:
   - lifecycle
   - nostalgia
+image_thumbnail_url: images/artifacts/MurmurMap.jpg
 ---
 When recording stories for the murmur oral history project, Shaniqua Simmons always wanted to hear tales of paranormal activity in Orange.  She heard this story from Cynthia Bianchi and it’s guaranteed to give you goosebumps. [Listen here.](https://soundcloud.com/murmur-orange-nj/cynthia-bianchi)  
 
