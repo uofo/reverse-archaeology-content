@@ -12,6 +12,8 @@ themes:
   - lifecycle
   - industry-and-infrastructure
 ---
+Jenny Rodriguez was an eigth-grader when she wrote about Orange Memorial Hospital, an empty building she saw everyday. 
+
 [Listen to a story about the hospital from [murmur]](https://soundcloud.com/murmur-orange-nj/orange-memorial-deborah-allen)
 
 _The fog seeps out of the shell of what was once Orange Memorial Hospital, creating a haunting experience for people walking by._
@@ -32,4 +34,12 @@ _There have been developers that have bought the hospital but the problem is tha
 
 _Orange Memorial was an essential part of Orange and it affected Orange more than anybody thinks. The job opportunities went away, as well as the medical attention.  Many residents today hope to see a new Orange Memorial Hospital in the future and it can with your help._
 
--Jenny Rodriguez
+-Jenny Rodriguez  
+
+Learn More:  
+
+This writing comes from Our Orange: The Discovery of Our Past. [Look at a draft of the textbook here.](http://www.universityoforange.org/newsite/our-orange-the-discovery-of-our-past)  
+
+[Learn more about Our Orange: The Discovery of Our Past](https://vimeo.com/117972168)  
+
+[Deborah Allen's story was recorded as a part of [murmur]](http://hiddentreasuresoforange.org/artifacts/murmur-orange?theme=history-us-cities)
