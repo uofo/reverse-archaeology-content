@@ -6,12 +6,8 @@ title: Mildred Harris remembers living on Central Place
 headline: >-
   “You’d come down Hickory Street and look at the back of them buildings and see
   nothing but tin tubs”
-image_caption: >-
-  Example of a tin tub like those most every household had before having hot
-  running water was the norm
-  (http://falln-stock.deviantart.com/art/Vintage-Metal-Bathtub-3-33026513) 
 name: Mildred Harris
-image_url: images/artifacts/Tin tub.jpg
+image_url: images/artifacts/washtubs_1.jpg
 themes:
   - history-us-cities
   - lifecycle
@@ -27,5 +23,4 @@ Learn more:
 
 [Listen the full interview with Mildred Harris](https://soundcloud.com/user-773139664/mildred-hicks-harris-interview-11-9-2015)  
 
-[Read a summary of the interview with Mildred Harris](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Mildred%20Hicks%20Harris%2011-9-2015%2C%20b.%201936.pdf)  
-
+[Read a summary of the interview with Mildred Harris](https://github.com/uofo/reverse-archaeology-content/raw/gh-pages/files/Mildred%20Hicks%20Harris%2011-9-2015%2C%20b.%201936.pdf)
