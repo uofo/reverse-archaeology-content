@@ -18,10 +18,10 @@ The Outpost filled a vital need since the construction of I-280 caused the closi
 
 Kids in the Outpost program used North Orange Baptist Church to play basketball, for homework support, and even sensitivity groups, where kids could talk about what was bothering them or just what was on their minds. Many people asked Slater why he invested so much in African American kids, an effort that they thought was a lost cause. His response was that “misfits and malcontents are the hope of the world!”  
 
-Learn more:
+Learn more:  
+
+[Watch a short video from the interview with Joe Thomasberger, Rebecca Doggett, and Karen Eonislawski](https://vimeo.com/186041126)
 
 [Listen the full interview with Joe Thomasberger, Rebecca Doggett, and Karen Eonislawski](https://soundcloud.com/user-773139664/joe-thomasberger-interview-4-26-16)
 
 Read a summary of the interview with Joe Thomasberger, Rebecca Doggett, and  Karen Eonislawski
-
-
