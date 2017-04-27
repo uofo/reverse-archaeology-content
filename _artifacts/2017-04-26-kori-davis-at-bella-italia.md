@@ -4,8 +4,8 @@ location_longitude: 0
 published: true
 title: Kori Davis at Bella Italia
 headline: Eighth Grade Social
-image_url: images/artifacts/BellaItalia_1.jpg
-image_caption: 'a portion of the [murmur] map created by artist Mike Malbrough'
+image_url: images/artifacts/MurmurMap.jpg
+image_caption: '[murmur] map created by artist Mike Malbrough'
 name: Kori Davis at Bella Italia
 themes:
   - nostalgia
