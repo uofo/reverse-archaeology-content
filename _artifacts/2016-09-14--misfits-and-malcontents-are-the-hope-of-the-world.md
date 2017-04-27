@@ -4,8 +4,8 @@ location_longitude: -74.225823
 published: true
 title: Bob Slater's "Outpost" program made a difference for kids in Orange
 headline: '“Misfits and malcontents are the hope of the world” '
-image_url: images/artifacts/Bob Slater.jpg
-image_caption: Bob Slater (courtesy JoeThomasberger)
+image_url: images/artifacts/NorthOrangeBaptist_1.jpg
+image_caption: copyright Mike Malbrough
 name: Joe Thomasberger
 subthemes: 'community service, YMCA, NOrth Orange Baptist Church'
 themes:
