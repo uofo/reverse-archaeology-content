@@ -3,11 +3,10 @@ location_latitude: 0
 location_longitude: 0
 published: true
 title: The Fight to Desgregate Orange's Public Schools
-image_caption: Gerrymandered school distict lines
 name: 'Ernest Thompson, Homeboy Came to Orange. '
 subthemes: 'Race, Education, Activism, Oakwood Avenue, CRG'
 headline: “We make no deals with children's futures”
-image_url: images/artifacts/Gerrymander Map.jpg
+image_url: images/artifacts/segregation_1.jpg
 themes:
   - history-us-cities
   - corner-good-hope
@@ -24,4 +23,3 @@ Learn more:
 [Read Homeboy Came to Orange](http://bookstore.iuniverse.com/Products/SKU-000068762/Homeboy-Came-to-Orange.aspx)
 
 [Learn more about Ernest Thompson](http://www.universityoforange.org/newsite/homeboy-came-to-orange)
-
