@@ -12,6 +12,8 @@ themes:
   - lifecycle
   - nostalgia
 ---
+As an eighth-grader learning about Orange at the Orange Scholars’ Academy, Maya Suarez was intrigued to find that there had been a movie theater right on Main Street. She wrote a chapter for _Our Orange: The Discovery of Our Past_ about the theater and the changing nature of the motion picture business:  
+
 _In the 1950s and 1960s a Main Street wasn’t a Main Street without a brightly-lit marquee lighting up the streets in the night, and bustling with all kinds of activity during the day. Nowadays, it’s hard to find good entertainment within our city lines or without hopping in a car and driving off to another city at least 10 minutes away. Now, Main Street may still be, in its own way, bustling with people, but not in the same warm and inviting and leisurely way it did just half a century ago._
 
 _Whenever we seek entertainment, a good laugh, or even a good cry in the 21st Century, we go to the movie theatres. Of course, the movies, and maybe the popcorn, is all that draws us to their locations, but is that the same reason they were popular back then? Now we have technology that can be applied to today’s movies, that couldn’t be applied back then, the kind of things that make the movies themselves so irresistible. But the old movie palaces had 2,000 seats that were often occupied with everyone from youth to elders. Could it be that the classic black and white movies that we lack appreciation for today, aren’t the only reason that the theatres were the highlight of Orange’s Main Street? What if, as crazy as it sounds, the actual theatres could draw people in and warm the hearts of so many people before they could even see the movies?_
@@ -22,4 +24,12 @@ _“It was very attractive, but functionally obsolete,” said Dennis Monasebian
 
 _A 1960s theatre, with its shining bright name and classic yet vibrant interior, would, without a doubt, stand out, but who said that was a bad thing? Orange was so inviting and sociable back then, so what’s wrong with bringing a memento from those warm times into a whole other century? I know I would love to be able to see such a classic and beautiful building on our Main Street._
 
--Maya Suarez
+-Maya Suarez  
+
+Learn More:
+
+This writing comes from Our Orange: The Discovery of Our Past. [Look at a draft of the textbook here.](http://www.universityoforange.org/newsite/our-orange-the-discovery-of-our-past)  
+
+[Learn more about Our Orange: The Discovery of Our Past](https://vimeo.com/117972168)  
+
+[Read about childhood memories of the Orange Theaters](http://hiddentreasuresoforange.org/artifacts/-every-saturday-we-would-roller-skate-to-the-movies?theme=lifecycle)
