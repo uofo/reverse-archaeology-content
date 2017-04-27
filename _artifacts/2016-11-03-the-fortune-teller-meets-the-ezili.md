@@ -9,6 +9,7 @@ headline: >-
 themes:
   - crossroads
   - nostalgia
+image_url: images/artifacts/Altar_1.jpg
 ---
 Although most of my clients are children at this elementary school fair, a few parents stop by my table to have their cards read.  
 
