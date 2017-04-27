@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Kori Davis at Bella Italia
 headline: Eighth Grade Social
 image_url: images/artifacts/BellaItalia_1.jpg
