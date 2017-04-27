@@ -6,11 +6,12 @@ title: The Old Embassy Theater
 headline: >-
   "Main Street wasn’t a Main Street without a brightly-lit marquee lighting up
   the streets in the night"
-image_url: images/artifacts/Embassy_1.jpg
 themes:
   - history-us-cities
   - lifecycle
   - nostalgia
+image_url: images/artifacts/EmbassyTheater.jpg
+image_caption: a photo of the Embassy from the 1930s
 ---
 As an eighth-grader learning about Orange at the Orange Scholars’ Academy, Maya Suarez was intrigued to find that there had been a movie theater right on Main Street. She wrote a chapter for _Our Orange: The Discovery of Our Past_ about the theater and the changing nature of the motion picture business:  
 
