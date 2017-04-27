@@ -33,4 +33,6 @@ Best,
 
 Khemani Gibson  
 
-[Read the article on Blavity](http://blavity.com/white-neighbor-crossed-street-when-saw-me)
+[Read the article on Blavity](http://blavity.com/white-neighbor-crossed-street-when-saw-me)  
+
+[Listen to _Gentrification: Feeling Like an Outsider in Your Own Neighborhood_ by WNYC "rookie reporter" Corinne Bobb-Semple from Bedstuy](http://www.wnyc.org/story/gentrification-feeling-outsider-your-own-neighborhood/)
