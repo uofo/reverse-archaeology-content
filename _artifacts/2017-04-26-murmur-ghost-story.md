@@ -4,12 +4,12 @@ location_longitude: 0
 published: true
 title: murmur ghost story
 headline: Paranormal Activity
-image_url: images/artifacts/Paranormal_1.jpg
-image_caption: 'a section of the [murmur] map created by artist Mike Malbrough'
+image_caption: '[murmur] map created by artist Mike Malbrough'
 name: murmur ghost story
 themes:
   - lifecycle
   - nostalgia
+image_url: images/artifacts/MurmurMap.jpg
 ---
 When recording stories for the murmur oral history project, Shaniqua Simmons always wanted to hear tales of paranormal activity in Orange.  She heard this story from Cynthia Bianchi and it’s guaranteed to give you goosebumps. [Listen here.](https://soundcloud.com/murmur-orange-nj/cynthia-bianchi)  
 
