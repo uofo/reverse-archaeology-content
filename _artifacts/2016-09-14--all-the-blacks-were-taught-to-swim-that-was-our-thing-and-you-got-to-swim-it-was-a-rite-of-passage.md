@@ -15,6 +15,7 @@ themes:
   - history-us-cities
   - lifecycle
   - nostalgia
+image_caption: copyright Mike Malbrough
 ---
 Gordon Roberts and Walter Preston were both born in Orange. Mr. Roberts in the 1920s and Mr. Preston in the 1940s. They both had successful careers working with programs to support young people in Orange, Newark and other places. One of the common foundations they cite from their upbringing is the Oakwood Avenue “Colored” YMCA. The Oakwood YMCA and YWCA were both demolished by the construction of Interstate-280. Preston, Roberts, and many others from the historic African American community are very clear in their opinion that losing the Ys was among the most devastating impacts of I-280.
 
