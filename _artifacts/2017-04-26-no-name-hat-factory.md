@@ -11,7 +11,7 @@ themes:
   - lifecycle
   - industry-and-infrastructure
 ---
-Orange, NJ was once the hat-making capital of the United States. The corner of Freeman and South Jefferson Streets was where the famous Stetson Brothers had their first factory.  [As as student at the Orange Scholars’ Academy Schundnax Emmanuel told us what he loves about the former hat district. Watch here.](https://vimeo.com/117971496)  
+Orange, NJ was once the hat-making capital of the United States. The corner of Freeman and South Jefferson Streets was where the famous Stetson Brothers had their first factory.  As as student at the Orange Scholars’ Academy Schundnax Emmanuel told us what he loves about the former hat district. [Watch here.](https://vimeo.com/117971496)
 
 Schundnax wrote an excerpt for _Our Orange: The Discovery of Our Past_, a textbook for Orange third graders, about the Hat-Making District in Orange:  
 
