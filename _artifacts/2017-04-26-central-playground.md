@@ -13,4 +13,6 @@ Orange native Monte Irvin is a baseball legend-- a star in the Negro Leagues and
 
 Learn More:  
 
-https://www.google.com/search?q=monte+irvin&source=lnms&tbm=isch&sa=X&ved=0ahUKEwik5rrR6sLTAhWJSiYKHXJqBTsQ_AUIDCgD&biw=1352&bih=580
+[Read about Monte Irvin from the Baseball Hall of Fame](http://baseballhall.org/hof/irvin-monte)  
+
+[An article about Irvin's life from the LA Times](http://www.latimes.com/local/obituaries/la-me-0113-monte-irvin-20160113-story.html)
