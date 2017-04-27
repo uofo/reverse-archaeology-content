@@ -11,6 +11,7 @@ themes:
   - lifecycle
   - nostalgia
 image_url: images/artifacts/rollerskates_1.jpg
+image_caption: copyright Mike Malbrough
 ---
 Fran McClain lived as a child on Central Place in Orange. She remembers the neighborhood well, but feels a loss since it declined after 280 was built. She recalls big sites like Orange Memorial Hospital, Rheingold’s Brewery, the Oakwood Avenue YMCA as well as small places like Dave’s and Manning’s jazz joint at the corner of Parrow and Central and the Friendship House on Parrow St. where the older kids would hang out and sometime bring the kids they were babysitting along.
 
