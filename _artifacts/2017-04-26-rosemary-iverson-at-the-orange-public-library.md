@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Rosemary Iverson at the Orange Public Library
 headline: Heaven is a room filled with books
 image_url: images/artifacts/Library_1.jpg
