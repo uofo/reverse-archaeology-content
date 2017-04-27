@@ -7,6 +7,7 @@ themes:
   - lifecycle
   - nostalgia
 headline: 'Forgiveness, Victim and Perseverance.  What do these cards mean?'
+image_url: images/artifacts/8ball.jpg
 ---
 I use oracle cards as as a kind of Rorschach test, a projective visioning exercise that invites the viewer to interpret the meaning behind cards that act as prompts. The cards open conversations that are frequently very deep and revealing about issues that are important to the viewer.  For example, one card say “Hope.” I will ask the viewer if there is something in his or her life now that offers hope? We enter into a conversation about hope—whether it exists now in the present, or perhaps its potential to unfold in the future.   
 
