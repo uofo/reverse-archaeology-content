@@ -17,6 +17,8 @@ Learn More:
 
 [An article about Irvin's life from the LA Times](http://www.latimes.com/local/obituaries/la-me-0113-monte-irvin-20160113-story.html)  
 
+[See a few images from Monte Irvin's High School Yearbook](http://baseballnuggets.blogspot.com/2016/01/monte-irvins-high-school.html)  
+
 [This story was recorded as a part of the [murmur] project in Orange](http://hiddentreasuresoforange.org/artifacts/murmur-orange)
 
 _Photo from the Associated Press_
