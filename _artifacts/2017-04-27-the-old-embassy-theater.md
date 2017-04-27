@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: The Old Embassy Theater
 headline: >-
   "Main Street wasn’t a Main Street without a brightly-lit marquee lighting up
@@ -23,4 +23,3 @@ _“It was very attractive, but functionally obsolete,” said Dennis Monasebian
 _A 1960s theatre, with its shining bright name and classic yet vibrant interior, would, without a doubt, stand out, but who said that was a bad thing? Orange was so inviting and sociable back then, so what’s wrong with bringing a memento from those warm times into a whole other century? I know I would love to be able to see such a classic and beautiful building on our Main Street._
 
 -Maya Suarez
-
