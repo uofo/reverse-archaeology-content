@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Becky Doggett’s horse story
 headline: “Everything was horse-drawn”
 image_url: images/artifacts/Becky_Horse.jpg
