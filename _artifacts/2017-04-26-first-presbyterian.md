@@ -3,6 +3,12 @@ location_latitude: 0
 location_longitude: 0
 published: false
 title: First Presbyterian
+headline: The first church in town
+image_url: images/artifacts/1stPres_1.jpg
+name: First Presbyterian
+themes:
+  - history-us-cities
+  - lifecycle
 ---
 When they were in the eighth grade Chennel Mahabir-Smith and Maya Suarez wrote about the First Presbyterian Church for the book Our Orange: The Discovery of our Past.  They researched the city and selected stories to share as a teaching tool for third graders.  Here is what they found about the church:  
 
