@@ -7,7 +7,7 @@ headline: “What is your dream? Life is not just about money—what do you want
 themes:
   - crossroads
   - corner-good-hope
-image_url: images/artifacts/Darline_1.jpg
+image_url: images/artifacts/Darline_2.psd
 ---
 Darline Allen’s mother was drawn to the U.S. by the lure of factory work. These jobs dried up shortly after she left Haiti and she ended up working in McDonald’s. Many Haitians work in the fast food industry. Allen’s mother worked in McDonald’s for 5-6 years. Eventually, she went into the medical field and she is now a registered nurse.  Essex County College was a huge help to her mother and many Haitian immigrants.   
 
