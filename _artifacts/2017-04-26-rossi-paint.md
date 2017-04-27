@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Rossi Paint
 headline: Superstars and trolley cars
 image_url: images/artifacts/TonyGalento_1.jpg
