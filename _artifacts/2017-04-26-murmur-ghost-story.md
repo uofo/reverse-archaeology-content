@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: murmur ghost story
 headline: Paranormal Activity
 image_url: images/artifacts/MurmurMap_1.jp2
