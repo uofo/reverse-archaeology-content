@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: First Presbyterian
 headline: The first church in town
 image_url: images/artifacts/1stPres_1.jpg
@@ -26,4 +26,3 @@ This writing comes from _Our Orange: The Discovery of Our Past_
 [Learn more about Our Orange: The Discovery of Our Past here](https://vimeo.com/117972168)  
 
 [UofO's Placemaking 2009 event was held at 1st Pres.](http://hiddentreasuresoforange.tumblr.com/post/111440093204/how-do-we-practice-urbanism-at-the-university-of)
-
