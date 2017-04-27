@@ -3,7 +3,7 @@ location_latitude: 0
 location_longitude: 0
 published: true
 title: Central playground
-headline: Hall of Fame
+headline: Hall of Famer
 themes:
   - history-us-cities
   - corner-good-hope
