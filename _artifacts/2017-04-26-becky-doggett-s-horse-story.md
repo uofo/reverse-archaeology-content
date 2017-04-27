@@ -14,4 +14,6 @@ Rebecca Doggett is an Orange native and longtime activist and community leader. 
 
 Learn More:  
 
-[Hear Becky's full story from UofO's Storytelling Event](https://soundcloud.com/user-773139664/beckydoggett-full-audio)
+[Hear Becky's full story from UofO's Storytelling Event](https://soundcloud.com/user-773139664/beckydoggett-full-audio)  
+
+[Learn more about Becky's life in Orange](http://hiddentreasuresoforange.org/artifacts/becky-doggett-nola)
