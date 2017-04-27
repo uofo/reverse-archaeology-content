@@ -1,7 +1,7 @@
 ---
 location_latitude: 0
 location_longitude: 0
-published: false
+published: true
 title: Orange Memorial Hospital
 image_url: images/artifacts/OrangeHospital.jpg
 headline: >-
