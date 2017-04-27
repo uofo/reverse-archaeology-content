@@ -17,4 +17,4 @@ Learn More:
 
 [This story was recorded as a part of the [murmur] project in Orange](http://hiddentreasuresoforange.org/artifacts/murmur-orange)  
 
-[Read a story about the [murmur] project in Orange](http://www.nj.com/news/local/index.ssf/2009/09/nonprofit_project_murmur_hopes.html)
+[Read a story about the [murmur] project in Orange from the Star Ledger](http://www.nj.com/news/local/index.ssf/2009/09/nonprofit_project_murmur_hopes.html)
