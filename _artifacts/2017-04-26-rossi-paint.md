@@ -16,4 +16,4 @@ Learn More:
 
 [Read more about Galento in this Independent article](http://www.independent.co.uk/sport/general/boxing/the-story-of-two-ton-tony-a-bloody-fight-in-the-nut-club-bar-and-a-giant-octopus-a6937741.html)  
 
-This story was created as a part of the Orange [murmur] project
+[This story was created as a part of the Orange [murmur] project](http://hiddentreasuresoforange.org/artifacts/murmur-orange)
