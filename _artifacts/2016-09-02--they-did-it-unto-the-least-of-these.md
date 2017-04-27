@@ -11,6 +11,7 @@ themes:
   - history-us-cities
   - corner-good-hope
   - lifecycle
+image_caption: copyright Mike Malbrough
 ---
 In 1958, Ernest Thompson organized the Committee for More Democratic Schools to fight the gerrymandering of districts in Orange that created de facto segregation in the public schools. Households in an majority African American section on the west side of Orange Park were zoned so that their children attended Oakwood Avenue School, while white children living on the east side of the park were bussed across town to Heywood School. At the time, the conditions at Oakwood Avenue School were inferior and students' books were often in poor condition and out of date. Dr. Benoit Isaac said, “for many years we have watched the Green Bus take children living as close as 100 feet from Oakwood [school] all the way to the other side of town so that they could attend a white school.” 
 
