@@ -4,10 +4,9 @@ location_longitude: -74.240205
 published: true
 title: CORE Protest Hiring Discrimination at White Castle in Orange in 1963
 headline: “We still want a Black and White Castle!”
-image_caption: White Castle Logo
 name: Racial discrimination
 subthemes: 'Protest, Race, African American Community'
-image_url: images/artifacts/White Castle Logo.jpg
+image_url: images/artifacts/WhiteCastle_1.jpg
 themes:
   - history-us-cities
   - corner-good-hope
