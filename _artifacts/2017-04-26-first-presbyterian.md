@@ -20,6 +20,10 @@ _At first glimpse, you think of the First Presbyterian Church as just an old, ru
 
 Learn More:  
 
+[Read about the church’s last Presbyterian congregation](http://www.nj.com/news/local/index.ssf/2010/07/historic_orange_church_to_clos.html)  
+
+[Read about the church’s Revolutionary War history](http://www.revolutionarywarnewjersey.com/new_jersey_revolutionary_war_sites/towns/orange_nj_revolutionary_war_sites.htm)  
+
 This writing comes from _Our Orange: The Discovery of Our Past_ 
 [Look at a draft of the textbook here.](http://www.universityoforange.org/newsite/our-orange-the-discovery-of-our-past)
 
