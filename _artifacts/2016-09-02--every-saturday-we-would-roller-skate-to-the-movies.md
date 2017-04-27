@@ -4,16 +4,13 @@ location_longitude: -74.225979
 published: true
 title: Fran McClain remembers childhood on Oakwood Avenue
 headline: '"Every Saturday we would roller skate to the movies"'
-image_caption: >-
-  The Embassy Theater on Main St. in Orange in the 1930s. The building still
-  stands across the street from the Orange Public Library.
 name: Fran McClain
 subthemes: 'Childhood, Entertainment, Oakwood Avenue'
-image_url: images/artifacts/EmbassyTheater.jpg
 themes:
   - history-us-cities
   - lifecycle
   - nostalgia
+image_url: images/artifacts/rollerskates_1.jpg
 ---
 Fran McClain lived as a child on Central Place in Orange. She remembers the neighborhood well, but feels a loss since it declined after 280 was built. She recalls big sites like Orange Memorial Hospital, Rheingold’s Brewery, the Oakwood Avenue YMCA as well as small places like Dave’s and Manning’s jazz joint at the corner of Parrow and Central and the Friendship House on Parrow St. where the older kids would hang out and sometime bring the kids they were babysitting along.
 
