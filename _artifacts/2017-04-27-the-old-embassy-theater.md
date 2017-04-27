@@ -3,6 +3,13 @@ location_latitude: 0
 location_longitude: 0
 published: false
 title: The Old Embassy Theater
+headline: >-
+  "Main Street wasn’t a Main Street without a brightly-lit marquee lighting up
+  the streets in the night"
+image_url: images/artifacts/Embassy_1.jpg
+themes:
+  - lifecycle
+  - nostalgia
 ---
 _In the 1950s and 1960s a Main Street wasn’t a Main Street without a brightly-lit marquee lighting up the streets in the night, and bustling with all kinds of activity during the day. Nowadays, it’s hard to find good entertainment within our city lines or without hopping in a car and driving off to another city at least 10 minutes away. Now, Main Street may still be, in its own way, bustling with people, but not in the same warm and inviting and leisurely way it did just half a century ago._
 
