@@ -20,6 +20,3 @@ White Castle management initially refused to change their hiring policies to inc
 
 _Sources: “Spectators Heckle Picketers.” Orange Transcript, July 25, 1963, p. 4; Matthews, Les. “’Bronx is a Bomb Ready to Explode.’” New York Amsterdam News, July 13, 1963, p. 1._  
 
-Learn More:
-
-Read articles on White Castle anti-dicrimination protests
