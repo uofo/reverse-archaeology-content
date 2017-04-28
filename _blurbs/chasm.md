@@ -2,5 +2,6 @@
 page: chasm
 published: true
 ---
-“In that searing moment, I realized the loss he was describing was, in a crucial way, the collective loss. It was the loss of a massive web of connections - a way of being - that had been destroyed by urban renewal; it was as if thousands of people, who seemed to be with me in sunlight, were at some deeper level of their being wandering lost in a dense fog, unable to find one another for the rest of their lives.”  
--- Dr. Mindy Thompson Fullilove, _Root Shock: How Tearing Up City Neighborhoods Hurt America, and What We Can Do About It_
+Serial forced displacement is a particularly grave threat to health because it repeatedly attacks the very foundation of human health: the stable neighborhood that has intergenerational knowledge of how to survive in a given place. Destruction of neighborhoods traumatizes people and destroys wealth of all kinds, including people’s economic, political, social, and cultural capital. Serial forced displacement is unjust and creates inequity.
+
+The Chasm is Real. Help Bridge the Chasm.
