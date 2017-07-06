@@ -15,6 +15,7 @@ image_url: images/artifacts/Darrel Walker protest.jpg
 themes:
   - history-us-cities
   - corner-good-hope
+learn_more_url: 'http://imgur.com/a/FcVh1'
 ---
 On Oct 31, 1979, Darrell Walker, a 17-year old African American youth, was shot by two Orange police officers. Walker had led the officers on a car chase after running a stop sign. The chase ended when Walker lost control of the car and hit a tree. As police officers approached the disabled car, Walker supposedly “reached for something shiny,” at which point the officers fired their weapons and shot the youth five times. They then handcuffed his lifeless body to an ambulance gurney for transport to East Orange General Hospital, where he was pronounced dead.
 
@@ -25,5 +26,5 @@ After County and State grand juries failed to indict the officers for the shooti
 _Sources: Frank Bolger, Cops Kill Youth After Chase. Orange Transcript Vol. 81:45, 8 November 1979, p. 1.; Frank Bolger, Hundreds March After Youth Shot. Orange Transcript Vol. 81:45, 8 November 1979, p. 1.; Farid Saunders, Application of Justice. Letter to the Editor, Orange Transcript Vol. 81:49, 6 December 1979, p. 4.; Anonymous, Instant Replay. Letter to the Editor, Orange Transcript Vol. 81:47, 21 November 1979, p. 4._  
 
 Learn more:  
+[Read newspaper coverage of the Darrell Walker Shooting](http://imgur.com/a/FcVh1)
 
-Read full newspaper article on the protest after Darrell Walker's shooting
